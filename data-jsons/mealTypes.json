@@ -1,0 +1,15 @@
+[
+  { "WPID": 167, "value": "Salad" },
+  { "WPID": 235, "value": "Dinner" },
+  { "WPID": 236, "value": "Snack" },
+  { "WPID": 237, "value": "Lunch" },
+  { "WPID": 238, "value": "Breakfast" },
+  { "WPID": 239, "value": "Appetizer" },
+  { "WPID": 240, "value": "Dessert" },
+  { "WPID": 241, "value": "Main Dish" },
+  { "WPID": 242, "value": "Brunch" },
+  { "WPID": 243, "value": "Side Dish" },
+  { "WPID": 424, "value": "Condiment" },
+  { "WPID": 603, "value": "Beverage" },
+  { "WPID": 9147, "value": "Cocktail" }
+]

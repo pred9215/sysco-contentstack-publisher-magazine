@@ -1,0 +1,5599 @@
+[
+  {
+    "metadata": {
+      "WPID": 31932,
+      "status": "publish",
+      "dateGMT": "2023-02-14T20:23:56Z",
+      "modifiedGMT": "2023-02-14T20:23:57Z",
+      "slug": "veteran-strong-goat-cheese-mushroom-burger",
+      "link": "https://foodie.sysco.com/recipes/veteran-strong-goat-cheese-mushroom-burger/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 506,
+          "value": "Alternative Protein Dish"
+        },
+        {
+          "WPID": 9157,
+          "value": "Burger"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 335,
+          "value": "Grill"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2023/02/Vet-Strong-Mushroom-Goat-Cheese-600x600-1-300x245.png",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2023/02/Vet-Strong-Mushroom-Goat-Cheese-600x600-1-300x300.png",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2023/02/Vet-Strong-Mushroom-Goat-Cheese-600x600-1.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Main Dish"
+      ],
+      "title": "Veteran Strong Goat Cheese Mushroom Burger",
+      "slogan": null,
+      "chefName": "Chef Elizabeth Faller",
+      "chefLocation": "Sysco Cincinnati",
+      "prepTimeDuration": "10",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "5",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "5.3 ounce Veteran Strong mushroom blend beef patty",
+                  "supc_data": [
+                    "2500082",
+                    "2528712",
+                    "5283458"
+                  ]
+                },
+                {
+                  "ingredient": "2 ounces Imperial Fresh onion white jumbo",
+                  "supc_data": [
+                    "8878589"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Block & Barrel goat cheese log chèvre",
+                  "supc_data": [
+                    "1140427"
+                  ]
+                },
+                {
+                  "ingredient": ".5 ounces Imperial Fresh arugula baby fresh",
+                  "supc_data": [
+                    "5142072"
+                  ]
+                },
+                {
+                  "ingredient": ".5 ounces Sysco Supreme mayonnaise banquet extra heavy duty",
+                  "supc_data": [
+                    "5992474",
+                    "4983920"
+                  ]
+                },
+                {
+                  "ingredient": ".25 ounces Arrezzio pesto basil sauce",
+                  "supc_data": [
+                    "5141502"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Thinly slice onion, and caramelize in a pan with some oil, salt & pepper for about 10-15 minutes, until golden and sweet.",
+                "Season and cook the burger as desired, on flat top or char grill.",
+                "Toast the potato bun (add some butter or mayo to get a nice golden toast).",
+                "Make the pesto aioli by combining pesto and mayonnaise.",
+                "Assemble: Toasted bun, burger, caramelized onion, crumbled goat cheese, arugula (toss it in olive oil & salt with a squeeze of lemon), and spread the pesto aioli on the top bun. Skewer together."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*",
+        "Since the burger already has mushrooms in the blend, it adds another flavor layerand pairs will with the creamy goat cheese, and sweet caramelized onions."
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2023/02/Vet-Strong-Mushroom-Goat-Cheese-600x600-1.png"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 31507,
+      "status": "publish",
+      "dateGMT": "2023-01-18T15:15:00Z",
+      "modifiedGMT": "2023-01-18T15:15:00Z",
+      "slug": "chefanies-vet-burger",
+      "link": "https://foodie.sysco.com/recipes/chefanies-vet-burger/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [],
+      "mainIngredients": [
+        {
+          "WPID": 267,
+          "value": "Beef"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 9157,
+          "value": "Burger"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 335,
+          "value": "Grill"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2023/01/MicrosoftTeams-image-60-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2023/01/MicrosoftTeams-image-60-300x225.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2023/01/MicrosoftTeams-image-60-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [],
+      "title": "Chefanie’s Vet Burger",
+      "slogan": null,
+      "chefName": "Chef Stephanie Chavez",
+      "chefLocation": "Central California",
+      "prepTimeDuration": "10",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "10",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "8 ounces Buckhead Beef/Newport Pride ground beef patty chuck, 80/20, Veteran Strong",
+                  "supc_data": [
+                    "7178172"
+                  ]
+                },
+                {
+                  "ingredient": "2 ounces Sysco Classic pork belly sous vide, fully cooked",
+                  "supc_data": [
+                    "5238930"
+                  ]
+                },
+                {
+                  "ingredient": "1/2 ounce Imperial Fresh green leaf lettuce crowns",
+                  "supc_data": [
+                    "6640569",
+                    "4680039"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Imperial Fresh diced yellow onion",
+                  "supc_data": [
+                    "1000405",
+                    "1094721",
+                    "8313918",
+                    "5430202",
+                    "1074747",
+                    "7750243"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Imperial Fresh roma tomato, sliced",
+                  "supc_data": [
+                    "6894125"
+                  ]
+                },
+                {
+                  "ingredient": "1/2 ounce Sysco Imperial mayonnaise",
+                  "supc_data": [
+                    "4002416"
+                  ]
+                },
+                {
+                  "ingredient": "1/2 ounce Sysco Imperial dijon mustard with white wine in tin",
+                  "supc_data": [
+                    "4064978"
+                  ]
+                },
+                {
+                  "ingredient": "1 count potato dusted bun",
+                  "supc_data": [
+                    "9908256"
+                  ]
+                },
+                {
+                  "ingredient": "1/4 ounce fresh hass avocado, sliced",
+                  "supc_data": [
+                    "6297594"
+                  ]
+                },
+                {
+                  "ingredient": "4 ounces Simplot Sidewinder potato fry conquest",
+                  "supc_data": [
+                    "3394055"
+                  ]
+                },
+                {
+                  "ingredient": "1 slice Block & Barrel Classic American cheese",
+                  "supc_data": [
+                    "6267272",
+                    "3002017"
+                  ]
+                },
+                {
+                  "ingredient": "2 tablespoons Wholesome Farms Imperial butter",
+                  "supc_data": [
+                    "5926910"
+                  ]
+                },
+                {
+                  "ingredient": "salt & pepper to taste",
+                  "supc_data": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Season patty with salt and pepper, cook on grill to desired temperature.",
+                "When patty is 90% done, top with American cheese.",
+                "Pull patty off the grill and let it rest.",
+                "Grill the onions until desired doneness.",
+                "Meanwhile, lightly butter the bun put it on the grill to toast.",
+                "Cook the Sidewinder fries and pork belly in the fryer.",
+                "Season both with salt when they turn golden brown.",
+                "Spread the mayo on the bottom bun, and the dijon mustard on the top of the bun.",
+                "Layer the burger in this order: patty on bottom bun, crispy pork belly, lettuce, tomato, avocado, and grilled onions. ENJOY!"
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2023/01/MicrosoftTeams-image-60-scaled.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 31306,
+      "status": "publish",
+      "dateGMT": "2023-01-17T19:30:38Z",
+      "modifiedGMT": "2023-01-17T19:30:39Z",
+      "slug": "norwegian-farm-raised-cod-with-couscous",
+      "link": "https://foodie.sysco.com/recipes/norwegian-farm-raised-cod-with-couscous/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 359,
+          "value": "Fish Dish"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 335,
+          "value": "Grill"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2023/01/Finfish-Couscous-300x245.png",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2023/01/Finfish-Couscous-300x300.png",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2023/01/Finfish-Couscous.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Main Dish"
+      ],
+      "title": "Norwegian Farm-Raised Cod with CousCous",
+      "slogan": null,
+      "chefName": "Chef Neil Doherty",
+      "chefLocation": "Houston, TX",
+      "prepTimeDuration": "10",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "10",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "6 ounces Portico Simply cod loin Atlantic farm-raised",
+                  "supc_data": [
+                    "7209575",
+                    "7209574"
+                  ]
+                },
+                {
+                  "ingredient": "⅒ ounces Spiceology spice blended smoked chipotle herbs provence",
+                  "supc_data": [
+                    "7209516"
+                  ]
+                },
+                {
+                  "ingredient": "2 ounces Wholesome Farms Imperial butter solid unsalted 83% minimum butterfat European",
+                  "supc_data": [
+                    "3030117",
+                    "3029438",
+                    "3031438"
+                  ]
+                },
+                {
+                  "ingredient": "5 ounces Sysco Classic couscous vegetables roasted",
+                  "supc_data": [
+                    "7209271"
+                  ]
+                },
+                {
+                  "ingredient": "2 ounces Sysco Imperial soup potato sweet coco curry ready-to-use",
+                  "supc_data": [
+                    "7209499"
+                  ]
+                },
+                {
+                  "ingredient": "⅒ ounces Imperial Fresh mint herb",
+                  "supc_data": [
+                    "2037109",
+                    "2037117",
+                    "2037125",
+                    "4509436",
+                    "7187552"
+                  ]
+                },
+                {
+                  "ingredient": "⅒ ounces Imperial Fresh cilantro cleaned, washed herb",
+                  "supc_data": [
+                    "1048248",
+                    "2004612",
+                    "2004620",
+                    "2219095",
+                    "8539017"
+                  ]
+                },
+                {
+                  "ingredient": "⅒ Imperial Fresh onion green iceless",
+                  "supc_data": [
+                    "1609403",
+                    "7350788",
+                    "8113987",
+                    "8678120",
+                    "9422098",
+                    "3262672"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Heat the soup in the boil in the bag in a large pot of water until hot all the way through; 10-15 minutes. Reserve hot.",
+                "Season the cod filet with the smoked chipotle herbs de provance seasoning and sear in a pan with 1/2 the butter; finish in the oven 3-4 minutes at 400°F. When done reserve hot.",
+                "Saute the couscous in a saute pan. Season with salt and pepperpepper; reserve hot.",
+                "Slice the green onions and pick the mint and cilantro leaves and set aside.",
+                "To plate: place the couscous in the middle of the plate and top with the cod. Drizzle the sweet potato soup as the sauce and place your herb salad on top."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2023/01/Finfish-Couscous.png"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 31314,
+      "status": "publish",
+      "dateGMT": "2023-01-10T20:59:37Z",
+      "modifiedGMT": "2023-01-10T20:59:37Z",
+      "slug": "seared-atlantic-salmon-cab-flat-iron-steak-with-beurre-rouge",
+      "link": "https://foodie.sysco.com/recipes/seared-atlantic-salmon-cab-flat-iron-steak-with-beurre-rouge/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 267,
+          "value": "Beef"
+        },
+        {
+          "WPID": 432,
+          "value": "Seafood"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 9176,
+          "value": "Seafood dish"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 335,
+          "value": "Grill"
+        },
+        {
+          "WPID": 340,
+          "value": "Roast"
+        },
+        {
+          "WPID": 341,
+          "value": "Sauté"
+        },
+        {
+          "WPID": 429,
+          "value": "Sear"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2023/01/Surf-Turf-300x245.png",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2023/01/Surf-Turf-300x300.png",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2023/01/Surf-Turf.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dinner"
+      ],
+      "title": "Seared Atlantic Salmon & CAB Flat Iron Steak with Beurre Rouge",
+      "slogan": null,
+      "chefName": "Chef Neil Doherty",
+      "chefLocation": "Houston, TX",
+      "prepTimeDuration": "30",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "10",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "3 ounces Sysco Classic long grain rice",
+                  "supc_data": [
+                    "4671434"
+                  ]
+                },
+                {
+                  "ingredient": "8 ounces red wine",
+                  "supc_data": []
+                },
+                {
+                  "ingredient": "1 count Reliance Fresh lemon",
+                  "supc_data": [
+                    "2252138",
+                    "2445781",
+                    "2252013",
+                    "2252039",
+                    "2252054",
+                    "2252070",
+                    "2252088",
+                    "2252138"
+                  ]
+                },
+                {
+                  "ingredient": "¼ ounce Imperial Fresh thyme",
+                  "supc_data": [
+                    "2005270",
+                    "2005296",
+                    "4509782",
+                    "2005262"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Imperial Fresh shallot, whole, peeled",
+                  "supc_data": [
+                    "1821529",
+                    "2415859",
+                    "9582545"
+                  ]
+                },
+                {
+                  "ingredient": "1 gram Imperial/McCormick whole black pepper",
+                  "supc_data": [
+                    "6638878"
+                  ]
+                },
+                {
+                  "ingredient": ".01 ounce Sysco Classic kosher salt",
+                  "supc_data": [
+                    "6040760"
+                  ]
+                },
+                {
+                  "ingredient": "1 ½ ounces Wholesome Farms Imperial unsalted butter",
+                  "supc_data": [
+                    "3029438",
+                    "3030117",
+                    "3031442",
+                    "7475999",
+                    "5926928"
+                  ]
+                },
+                {
+                  "ingredient": "2-3 count Imperial/McCormick whole bay leaves",
+                  "supc_data": [
+                    "5158502"
+                  ]
+                },
+                {
+                  "ingredient": "6 ounces Portico Simply salmon Atlantic portion boneless & skinless",
+                  "supc_data": [
+                    "8496366",
+                    "8496341",
+                    "7790603",
+                    "7576705"
+                  ]
+                },
+                {
+                  "ingredient": "6 ounces CAB Buckhead/Newport steak chuck flat iron",
+                  "supc_data": [
+                    "5170663"
+                  ]
+                },
+                {
+                  "ingredient": "4 ounces Sysco Supreme vegetable blend sweet potato & roasted root vegetables",
+                  "supc_data": [
+                    "3617531"
+                  ]
+                },
+                {
+                  "ingredient": "½ gram cilantro fresh micro",
+                  "supc_data": [
+                    "7010343"
+                  ]
+                },
+                {
+                  "ingredient": "salt and pepper to taste",
+                  "supc_data": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "For the sauce:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "In a small sauce pot, add chopped shallot, crushed black peppercorns, fresh thyme sprigs, bay leaves, peeled lemon and red wine.",
+                "Set to reduce by three quarters or until syrupy.",
+                "Set heat to low and simmer while whisking in butter in small amounts.",
+                "Strain through a fine chinois and reserve warm."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For the rice:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Cook rice according to directions and keep hot."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For the steak:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Season the steak with salt and pepper and grill or sear to desired temperature; let rest."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For the salmon:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Season salmon filet with salt and pepper.",
+                "Sear bloodline up or presentation side down in a hot pan with 1 tablespoon of oil for 2-3 minutes.",
+                "Transfer to a 400°F oven for about 4 minutes to finish cooking.",
+                "Once done, set aside, keeping hot.",
+                "While the salmon and steak are finishing cooking, sauté the roasted vegetables, season with salt and pepper and reserve hot."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "To plate:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Place the rice and roasted vegetables in the middle of a plate.",
+                "Place the salmon on top of the rice and place the steak on top of the vegetables.",
+                "Drizzle the sauce around and on top of the salmon and steak.",
+                "Garnish with micro greens or small herb salad."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2023/01/Surf-Turf.png"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 31309,
+      "status": "publish",
+      "dateGMT": "2023-01-09T21:43:17Z",
+      "modifiedGMT": "2023-01-09T21:43:17Z",
+      "slug": "popcorn-shrimp",
+      "link": "https://foodie.sysco.com/recipes/popcorn-shrimp/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 239,
+          "value": "Appetizer"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 271,
+          "value": "Shrimp"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 9176,
+          "value": "Seafood dish"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 3134,
+          "value": "Fry"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2023/01/Popcorn-Shrimp-300x245.png",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2023/01/Popcorn-Shrimp-300x300.png",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2023/01/Popcorn-Shrimp.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Appetizer"
+      ],
+      "title": "Popcorn Shrimp",
+      "slogan": null,
+      "chefName": "Chef Neil Doherty",
+      "chefLocation": "Houston, TX",
+      "prepTimeDuration": "2",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "6",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "½  pound Portico Classic Seafood breaded popcorn shrimp 60/80",
+                  "supc_data": [
+                    "4750606"
+                  ]
+                },
+                {
+                  "ingredient": "½  pound Sysco Imperial beer battered potato fry 5/16″",
+                  "supc_data": [
+                    "1999891"
+                  ]
+                },
+                {
+                  "ingredient": "2 ounces House Recipe Imperial ketchup squeeze bottle",
+                  "supc_data": [
+                    "6638738",
+                    "5686266",
+                    "8382129",
+                    "1111111",
+                    "9431024"
+                  ]
+                },
+                {
+                  "ingredient": "2 ounces Sysco Classic jalapeño fire ranch dressing",
+                  "supc_data": [
+                    "4537843"
+                  ]
+                },
+                {
+                  "ingredient": "1 tablespoon Imperial Fresh cilantro cleaned & washed herb",
+                  "supc_data": [
+                    "2219095"
+                  ]
+                },
+                {
+                  "ingredient": "¼ count Reliance Fresh lemon",
+                  "supc_data": [
+                    "2252138",
+                    "2445781",
+                    "2252013",
+                    "2252039",
+                    "2252054",
+                    "2252070",
+                    "2252088",
+                    "2252138"
+                  ]
+                },
+                {
+                  "ingredient": ".15 ounce fresh red fresno pepper",
+                  "supc_data": [
+                    "3445253",
+                    "3723766",
+                    "1160680",
+                    "1414699",
+                    "2129856",
+                    "2161170",
+                    "2841351",
+                    "3657782",
+                    "4742928"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Prepare sauces.",
+                "Prepare garnishes: slice the fresno pepper, pick cilantro leaves, slice the lemon and set aside.",
+                "Fry popcorn shrimp and fries according to directions.",
+                "Place popcorn shrimp and fries in a paper lined basket, top with garnishes.",
+                "Plate basket with sauces."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2023/01/Popcorn-Shrimp.png"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 31089,
+      "status": "publish",
+      "dateGMT": "2022-12-13T21:31:39Z",
+      "modifiedGMT": "2022-12-13T21:31:41Z",
+      "slug": "grilled-plant-based-patty-with-vegan-butternut-squash-pepitas",
+      "link": "https://foodie.sysco.com/recipes/grilled-plant-based-patty-with-vegan-butternut-squash-pepitas/",
+      "categories": [
+        {
+          "WPID": 9221,
+          "value": "Plant-Based"
+        },
+        {
+          "WPID": 38,
+          "value": "Recipes"
+        }
+      ],
+      "tags": [
+        {
+          "WPID": 93,
+          "value": "Plant-based"
+        }
+      ],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 504,
+          "value": "Alternative Protein"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 506,
+          "value": "Alternative Protein Dish"
+        },
+        {
+          "WPID": 324,
+          "value": "Sandwich"
+        }
+      ],
+      "dietaryNeeds": [
+        {
+          "WPID": 332,
+          "value": "Vegan"
+        },
+        {
+          "WPID": 331,
+          "value": "Vegetarian"
+        }
+      ],
+      "techniques": [
+        {
+          "WPID": 338,
+          "value": "Deep-fry"
+        },
+        {
+          "WPID": 335,
+          "value": "Grill"
+        },
+        {
+          "WPID": 343,
+          "value": "Steam"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/12/Grilled-Plant-Base-Patty-with-Vegan-Butternut-Squash-Pepitas-Sauce-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/12/Grilled-Plant-Base-Patty-with-Vegan-Butternut-Squash-Pepitas-Sauce-200x300.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/12/Grilled-Plant-Base-Patty-with-Vegan-Butternut-Squash-Pepitas-Sauce-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dinner"
+      ],
+      "title": "Grilled Plant Based Patty with Vegan Butternut Squash & Pepitas",
+      "slogan": null,
+      "chefName": null,
+      "chefLocation": null,
+      "prepTimeDuration": "10",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "20",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "1 count plant-based burger patty",
+                  "supc_data": [
+                    "9906370"
+                  ]
+                },
+                {
+                  "ingredient": "1 count Sysco Simply Plant Based wheatberry sprouted grain hamburger bun",
+                  "supc_data": [
+                    "7172630"
+                  ]
+                },
+                {
+                  "ingredient": "¼ pound junior cut Sidewinders potato fry",
+                  "supc_data": [
+                    "7105268"
+                  ]
+                },
+                {
+                  "ingredient": "½ ounce Spiceology smoked chipotle herbs provence blended spice",
+                  "supc_data": [
+                    "7209516"
+                  ]
+                },
+                {
+                  "ingredient": "2 ounces fresh heirloom tomato",
+                  "supc_data": [
+                    "1221191",
+                    "3342965",
+                    "0366280",
+                    "7268964",
+                    "4931798",
+                    "5389440",
+                    "5388400",
+                    "5388343",
+                    "1745886",
+                    "9908053"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Imperial Fresh red jumbo onion",
+                  "supc_data": [
+                    "1094663"
+                  ]
+                },
+                {
+                  "ingredient": "½ ounce Sysco International Imperial pumpkin seed pepitas",
+                  "supc_data": [
+                    "3637055"
+                  ]
+                },
+                {
+                  "ingredient": "1 fluid ounce vegan mayonnaise dressing",
+                  "supc_data": [
+                    "7048436",
+                    "9911903"
+                  ]
+                },
+                {
+                  "ingredient": "½ cup Sysco Classic white distilled vinegar",
+                  "supc_data": [
+                    "4113049",
+                    "4179768",
+                    "5321468"
+                  ]
+                },
+                {
+                  "ingredient": "1 count Block & Barrel Classic pickle spear",
+                  "supc_data": [
+                    "4366611"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Imperial Fresh baby arugula",
+                  "supc_data": [
+                    "4038840"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce squash butternut cubes 3/4 inch",
+                  "supc_data": [
+                    "1283662"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "For the Sauce (batch recipe):",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Toast 1 cup of pepitas in a 400°F oven for 3 minutes and let cool.",
+                "Steam 1 cup of butternut squash for 6 minutes.",
+                "Place the cooked squash and 1 tablespoon of the seasoning in a bowl; blend and cool.",
+                "Combine with the mayo and season if needed."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For the pickled onions (batch recipe):",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Slice 1 onion very thin.",
+                "Bring the white vinegar to a boil and pour on the sliced onion with 1 teaspoon of salt.",
+                "Cover and let stand at room temperature for 10 minutes.",
+                "Drain and chill."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For the Burger:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Season the patty with salt and olive oil.",
+                "Grill the patty until it reaches 160°F (3-4 minutes).",
+                "Grill the bun.",
+                "Fry the potatoes.",
+                "Season one side of the pickle with the chipotle rub.",
+                "Serve with the sauce and fries."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/12/Grilled-Plant-Base-Patty-with-Vegan-Butternut-Squash-Pepitas-Sauce-scaled.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 31020,
+      "status": "publish",
+      "dateGMT": "2022-12-12T17:54:54Z",
+      "modifiedGMT": "2022-12-13T19:32:30Z",
+      "slug": "vegan-kafta-hummus-pita-chips",
+      "link": "https://foodie.sysco.com/recipes/vegan-kafta-hummus-pita-chips/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 3134,
+          "value": "Fry"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/11/kafta-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/11/kafta-300x300.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/11/kafta-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Main Dish"
+      ],
+      "title": "Vegan Kafta, Hummus, & VeganPita Chips",
+      "slogan": null,
+      "chefName": "Chef Lindsay Noto",
+      "chefLocation": "Sysco Central Alabama",
+      "prepTimeDuration": "25",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "5",
+      "cookTimeUnit": "min",
+      "servings": "8",
+      "description": null,
+      "ingredients": [
+        {
+          "title": "For Kafta:",
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "2 pounds Sysco Simply oat protein shred",
+                  "supc_data": [
+                    "7103439"
+                  ]
+                },
+                {
+                  "ingredient": "6 ounces Sysco Classic traditional hummus dip",
+                  "supc_data": [
+                    "9669151"
+                  ]
+                },
+                {
+                  "ingredient": "½ pounds Imperial Fresh onion yellow jumbo",
+                  "supc_data": [
+                    "3653938",
+                    "4949618",
+                    "8313918"
+                  ]
+                },
+                {
+                  "ingredient": "1 ½ Sysco Classic salt kosher flake coarse",
+                  "supc_data": [
+                    "6040760",
+                    "3840752",
+                    "3888670",
+                    "4137398",
+                    "5218880",
+                    "6904759"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Sysco Imperial/McCormick spice pepper red crushed",
+                  "supc_data": [
+                    "9806423",
+                    "5913454",
+                    "3492701",
+                    "7324452",
+                    "1771151",
+                    "1975145"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For Cauliflower Pita Chips:",
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "¼ units Sysco Simply pizza crust par baked cauliflower plant based",
+                  "supc_data": [
+                    "7071080"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Sysco Imperial/McCormick spice pepper black coarse ground",
+                  "supc_data": [
+                    "5229273",
+                    "5229281",
+                    "5229356",
+                    "5229331"
+                  ]
+                },
+                {
+                  "ingredient": "½ ounce Sysco Imperial/McCormick spice cinnamon ground",
+                  "supc_data": [
+                    "5265451",
+                    "5229398",
+                    "8580900",
+                    "3492677",
+                    "5285267"
+                  ]
+                },
+                {
+                  "ingredient": "1 ½ fluid ounce oil coconut sun organic bib",
+                  "supc_data": [
+                    "7145785"
+                  ]
+                },
+                {
+                  "ingredient": "¼ pound Imperial Fresh parsley fresh trimmed",
+                  "supc_data": [
+                    "6542872",
+                    "2219111",
+                    "7078552"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "For Kafta:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Roughly chop 1 yellow onion. Place in a food processor and pulse until almost pureed.",
+                "Remove onion and place in mixing bowl. Add parsley to food processor. Pulse until finely chopped. Add to mixing bowl with onion.",
+                "Combine 2 pound bag of pulled oats with onion and parsley mixture. Add 6 ounces of hummus. The hummus will act as a binding agent for the kafta.",
+                "Season with salt, pepper, red pepper flakes, and cinnamon. With your hands, work the mixture together until all ingredients are completely combined. This should look like the base for making meatballs.",
+                "Using your hands, form kafta in to small, 2-3 ounce logs. Be sure they are tightly formed and molded to the kafta will hold together.",
+                "Heat coconut oil in a non-stick pan. Sear kafta on each side until they are brown and crispy- roughly 2.5 minutes per side.",
+                "Serve over hummus with cauliflower crust \"pita chips\"."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For Cauliflower Pita Chips:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Cut cauliflower crust in to 16ths, like very thin pizza slices.",
+                "In a mixing bowl, toss chips in coconut oil and season with spices or seasonings of your choice.",
+                "Line pita chips on a baking sheet. Bake at 350°F for 5 minutes or until golden brown and crispy."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/11/kafta-scaled.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 30301,
+      "status": "publish",
+      "dateGMT": "2022-11-03T15:33:34Z",
+      "modifiedGMT": "2022-11-03T15:36:40Z",
+      "slug": "the-elote-corn-burger",
+      "link": "https://foodie.sysco.com/recipes/the-elote-corn-burger/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        }
+      ],
+      "mainIngredients": [],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [],
+      "dietaryNeeds": [],
+      "techniques": [],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/11/Elote-Burger-600-x-600px-300x245.png",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/11/Elote-Burger-600-x-600px-300x300.png",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/11/Elote-Burger-600-x-600px.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Lunch"
+      ],
+      "title": "The Elote Corn Burger",
+      "slogan": "Veteran Strong Burger, Jalapeño Corn, Pico Crema, Cotija",
+      "chefName": "Chef William Brooks",
+      "chefLocation": "Connecticut",
+      "prepTimeDuration": "5",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "10-15",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "1 Veteran Strong beef ground beef burger patty",
+                  "supc_data": [
+                    "7178172"
+                  ]
+                },
+                {
+                  "ingredient": "1 each Baker’s Source Classic kaiser yellow corndusted bun, sliced",
+                  "supc_data": [
+                    "2500082",
+                    "2528712",
+                    "5283458"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Imperial Fresh pico de gallo salsa",
+                  "supc_data": [
+                    "7225568"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Pica Y Salpica crema Mexicana",
+                  "supc_data": [
+                    "4434811"
+                  ]
+                },
+                {
+                  "ingredient": "2 ounces Sysco Imperial yellow corn roasted blend",
+                  "supc_data": [
+                    "7085140"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Wholesome Farms Classic heavy cream 40%",
+                  "supc_data": [
+                    "2592525",
+                    "4828802",
+                    "5025329",
+                    "5065335",
+                    "6935464",
+                    "7069854",
+                    "7166518"
+                  ]
+                },
+                {
+                  "ingredient": "½ ounce Imperial Fresh jalapeño pepper",
+                  "supc_data": [
+                    "1185156",
+                    "1350271"
+                  ]
+                },
+                {
+                  "ingredient": "5 grams Sysco Classic kosher salt",
+                  "supc_data": [
+                    "6040760"
+                  ]
+                },
+                {
+                  "ingredient": "1 each Tajin low sodium seasoning packet",
+                  "supc_data": [
+                    "7011742"
+                  ]
+                },
+                {
+                  "ingredient": "½ ounce Baby Arugula",
+                  "supc_data": [
+                    "5142072"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Stir together crema Mexicana sour cream and pico de gallo.",
+                "Combine roasted corn blend, jalapeños, heavy cream, kosher salt, Tajin seasoning then puree to a smooth consistency.",
+                "Cook Veteran Strong burger patty to desired temperature.",
+                "Toast the top and bottom buns while the burger patty is cooking. Place Cotija cheese on the griddle, then place the bun top onto the Cotija cheese and remove when lightly browned.",
+                "The build: bun bottom, pico crema, burger patty, corn puree, bun top."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/11/Elote-Burger-600-x-600px.png"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 30077,
+      "status": "publish",
+      "dateGMT": "2022-11-01T16:10:25Z",
+      "modifiedGMT": "2022-11-01T16:10:28Z",
+      "slug": "layered-bread-pudding-stack",
+      "link": "https://foodie.sysco.com/recipes/layered-bread-pudding-stack/",
+      "categories": [
+        {
+          "WPID": 38,
+          "value": "Recipes"
+        }
+      ],
+      "tags": [
+        {
+          "WPID": 444,
+          "value": "Bread Pudding"
+        },
+        {
+          "WPID": 127,
+          "value": "Dessert"
+        },
+        {
+          "WPID": 94,
+          "value": "Holiday"
+        },
+        {
+          "WPID": 437,
+          "value": "Holiday Desserts"
+        }
+      ],
+      "recipeTypes": [
+        {
+          "WPID": 240,
+          "value": "Dessert"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 286,
+          "value": "Bread"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 9153,
+          "value": "Fruit Dessert"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 334,
+          "value": "Bake"
+        },
+        {
+          "WPID": 336,
+          "value": "Boil"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/10/MicrosoftTeams-image-118-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/10/MicrosoftTeams-image-118-300x183.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/10/MicrosoftTeams-image-118-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dessert"
+      ],
+      "title": "Layered Bread Pudding Stack",
+      "slogan": null,
+      "chefName": "Chef Neil Doherty",
+      "chefLocation": "Houston, TX",
+      "prepTimeDuration": "15-20",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "60",
+      "cookTimeUnit": "min",
+      "servings": null,
+      "description": null,
+      "ingredients": [
+        {
+          "title": "FOR THE BREAD PUDDING:",
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "8 cups Baker’s Source day-old bread cubes, crust removed",
+                  "supc_data": [
+                    "0644286",
+                    "1213511",
+                    "1219187",
+                    "2493601"
+                  ]
+                },
+                {
+                  "ingredient": "4 each Wholesome Farms egg yolks",
+                  "supc_data": [
+                    "1434414"
+                  ]
+                },
+                {
+                  "ingredient": "3 each Wholesome Farms Imperial eggs",
+                  "supc_data": [
+                    "5069350",
+                    "5069368",
+                    "8912230",
+                    "1102730",
+                    "1102748",
+                    "1102763",
+                    "1165711",
+                    "1165711",
+                    "1466465",
+                    "2105765",
+                    "2105781",
+                    "2105815",
+                    "2105823",
+                    "2105849",
+                    "3205323",
+                    "3602786",
+                    "3205347"
+                  ]
+                },
+                {
+                  "ingredient": "1 cup Wholesome Farms Classic heavy whipping cream",
+                  "supc_data": [
+                    "2592525",
+                    "4828802",
+                    "5025329",
+                    "5065335",
+                    "6935464",
+                    "7069854",
+                    "7166518"
+                  ]
+                },
+                {
+                  "ingredient": "½ cup Wholesome Farms Classic milk",
+                  "supc_data": [
+                    "4676306"
+                  ]
+                },
+                {
+                  "ingredient": "1 cup Sysco Classic sugar",
+                  "supc_data": [
+                    "4782694"
+                  ]
+                },
+                {
+                  "ingredient": "Nutella",
+                  "supc_data": [
+                    "2460958"
+                  ]
+                },
+                {
+                  "ingredient": "Wholesome Farms Classic whipped cream",
+                  "supc_data": [
+                    "1251745",
+                    "4627804"
+                  ]
+                },
+                {
+                  "ingredient": "crushed peppermint candies",
+                  "supc_data": []
+                },
+                {
+                  "ingredient": "sugared cranberries",
+                  "supc_data": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FOR THE VANILLA RUM SAUCE:",
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "½ cup Wholesome Farms Imperial butter",
+                  "supc_data": [
+                    "3029438",
+                    "3030117",
+                    "3031442",
+                    "7475999",
+                    "5926928"
+                  ]
+                },
+                {
+                  "ingredient": "½ cup Sysco Classic sugar",
+                  "supc_data": [
+                    "4782694"
+                  ]
+                },
+                {
+                  "ingredient": "½ cup Sysco Classic firmly packed brown sugar",
+                  "supc_data": [
+                    "1854926",
+                    "1854694",
+                    "5593702"
+                  ]
+                },
+                {
+                  "ingredient": "½ cup Wholesome Farms Classic heavy whipping cream",
+                  "supc_data": [
+                    "2592525",
+                    "4828802",
+                    "5025329",
+                    "5065335",
+                    "6935464",
+                    "7069854",
+                    "7166518"
+                  ]
+                },
+                {
+                  "ingredient": "1 tablespoon Sysco Imperial McCormick vanilla extract",
+                  "supc_data": [
+                    "5230040",
+                    "5230057",
+                    "5239371",
+                    "9787284"
+                  ]
+                },
+                {
+                  "ingredient": "1 tablespoon vanilla rum or dark rum",
+                  "supc_data": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Preheat oven to 350° F.",
+                "Place bread cubes in a greased 9\" x 5\" bread pan.",
+                "In a separate bowl, combine the egg yolks, eggs, cream, milk and sugar.",
+                "Pour over bread mixture.",
+                "Place bread pan in a larger baking dish. Fill larger dish with boiling water halfway up the sides. Bake at 350° F for 50–55 minutes, or until a knife inserted near center comes out clean.",
+                "Remove from water bath and cool for 15 minutes."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For the vanilla rum sauce",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Combine all ingredients except vanilla and rum in a 1-quart saucepan.",
+                "Cook over medium heat, stirring occasionally, until mixture thickens and comes to a full boil (5–8 minutes).",
+                "Stir in vanilla and rum.",
+                "To serve, slice bread pudding and stack on the center of the plate, alternating fillings of Nutella and whipped cream with crushed peppermint candies and sugared cranberries. Drizzle vanilla rum sauce on top and serve warm."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/10/MicrosoftTeams-image-118-scaled.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 30120,
+      "status": "publish",
+      "dateGMT": "2022-10-19T21:31:08Z",
+      "modifiedGMT": "2022-10-19T21:31:09Z",
+      "slug": "pepper-jelly-glazed-pork",
+      "link": "https://foodie.sysco.com/recipes/pepper-jelly-glazed-pork/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 268,
+          "value": "Pork"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 4798,
+          "value": "Pork Dish"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 334,
+          "value": "Bake"
+        },
+        {
+          "WPID": 341,
+          "value": "Sauté"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/10/Pepper-Jelly-Glazed-Pork-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/10/Pepper-Jelly-Glazed-Pork-225x300.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/10/Pepper-Jelly-Glazed-Pork-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dinner"
+      ],
+      "title": "Autumn Pork with Pepper Jelly Glaze",
+      "slogan": "Autumn Pork with Pepper Jelly Glaze, Chicken Sausage-Apple Hash, and a Sage Cornbread Crumble",
+      "chefName": null,
+      "chefLocation": null,
+      "prepTimeDuration": null,
+      "prepTimeUnit": null,
+      "cookTimeDuration": null,
+      "cookTimeUnit": null,
+      "servings": null,
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "½ pound Butcher’s Block Prime pork tenderloin",
+                  "supc_data": [
+                    "1357835",
+                    "5812534",
+                    "5812753",
+                    "6297358"
+                  ]
+                },
+                {
+                  "ingredient": "¼ ounce Char Crust hickory & molasses seasoning",
+                  "supc_data": [
+                    "5665577"
+                  ]
+                },
+                {
+                  "ingredient": "4 ounces Reliance Fresh sweet potato, cooked and mashed",
+                  "supc_data": [
+                    "7152564"
+                  ]
+                },
+                {
+                  "ingredient": "3 ounces Imperial Fresh Brussels sprout halves",
+                  "supc_data": [
+                    "1480037",
+                    "8317453",
+                    "4510263"
+                  ]
+                },
+                {
+                  "ingredient": "½ ounce chicken & apple sausage",
+                  "supc_data": [
+                    "7417852"
+                  ]
+                },
+                {
+                  "ingredient": "3 ounces Simplot roasted sweet potato with maple seasoning",
+                  "supc_data": [
+                    "00790959637893"
+                  ]
+                },
+                {
+                  "ingredient": "2 ounces Sysco Imperial flame-roasted fuji apple",
+                  "supc_data": [
+                    "6263289"
+                  ]
+                },
+                {
+                  "ingredient": "¼ ounce Imperial Fresh sage herb",
+                  "supc_data": [
+                    "2004919",
+                    "2004943",
+                    "2004927"
+                  ]
+                },
+                {
+                  "ingredient": "¼ ounce Baker’s Source Classic complete cornbread mix",
+                  "supc_data": [
+                    "4948089",
+                    "7217573",
+                    "2748905",
+                    "2810426",
+                    "1214085",
+                    "2748897",
+                    "2810997"
+                  ]
+                },
+                {
+                  "ingredient": "¼ ounce Sysco Imperial habanero hot pepper bacon jam",
+                  "supc_data": [
+                    "7210373"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Clean the pork tenderloin of any excess fat and silver skin before patting it dry.",
+                "Season with hickory molasses and Kosher salt.",
+                "Sear the pork in a hot cast iron skillet on all sides before placing in a pre-heated 350°F oven and cook until internal temperature reaches 145°F or your preferred temperature."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For the Sage Cornbread Crumble:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Prepare the cornbread per directions on packaging. Once cooled, crumble cornbread.",
+                "Sauté for a few minutes in brown butter with some freshly chopped sage and season with salt and pepper.",
+                "Cook until the crumb starts to brown and become fragrant.",
+                "Heat up the sweet potato mash with butter and maple syrup and cinnamon. Season with salt and pepper to taste."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For the hash:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "In a hot cast iron skillet add some butter and wait until the butter starts to foam and turn brown with a nutty aroma.",
+                "Add some sliced apple chicken sausage and begin to render some of the fat before adding the halved Brussels cut side down for a minute to get a good sear.",
+                "Add the maple sweet potatoes and flamed Fuji apples.",
+                "Sauté for a few minutes until well caramelized and finish seasoning with salt and pepper and a splash of sherry vinegar."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "For the Pepper Jelly Glaze:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "In a sauce pot, thin out the habanero hot pepper bacon jam with a touch of water and a splash of sherry vinegar. This will be the glaze after the pork is cooked."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "To Assemble the Plate:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Spoon the sweet potato mash on the bottom of the plate.",
+                "Place the hot vegetable/sausage hash directly on top of the mashed potatoes.",
+                "After the pork has rested, glaze with the pepper jelly before slicing.",
+                "Place the sliced pork on the hash and sprinkle with some of the sage cornbread crumble.",
+                "To finish the plate, garnish with a single leaf of crispy fried sage."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/10/Pepper-Jelly-Glazed-Pork-scaled.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 30122,
+      "status": "publish",
+      "dateGMT": "2022-10-19T21:29:06Z",
+      "modifiedGMT": "2022-10-19T21:29:08Z",
+      "slug": "potato-strata",
+      "link": "https://foodie.sysco.com/recipes/potato-strata/",
+      "categories": [],
+      "tags": [
+        {
+          "WPID": 9225,
+          "value": "Potato Strata"
+        },
+        {
+          "WPID": 9226,
+          "value": "Strata"
+        }
+      ],
+      "recipeTypes": [
+        {
+          "WPID": 243,
+          "value": "Side Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 281,
+          "value": "Potatoes"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 318,
+          "value": "Casserole"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 334,
+          "value": "Bake"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/10/IMG_4314-1-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/10/IMG_4314-1-300x174.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/10/IMG_4314-1-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Side Dish"
+      ],
+      "title": "Potato Strata",
+      "slogan": null,
+      "chefName": null,
+      "chefLocation": null,
+      "prepTimeDuration": null,
+      "prepTimeUnit": null,
+      "cookTimeDuration": null,
+      "cookTimeUnit": null,
+      "servings": null,
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "3 pounds Imperial Fresh russet baking potatoes",
+                  "supc_data": [
+                    "1008465"
+                  ]
+                },
+                {
+                  "ingredient": "20 ounces Wholesome Farms Classic liquid egg scramble",
+                  "supc_data": [
+                    "2366607",
+                    "2565539",
+                    "1798388",
+                    "7080053"
+                  ]
+                },
+                {
+                  "ingredient": "12 ounces Wholesome Farms Classic half & half creamer",
+                  "supc_data": [
+                    "4828554"
+                  ]
+                },
+                {
+                  "ingredient": "1 pound Casa Solana Imperial fancy shredded mild yellow cheddar cheese",
+                  "supc_data": [
+                    "2370179",
+                    "2599793",
+                    "2818716",
+                    "2819007",
+                    "3001995",
+                    "3002017",
+                    "3002973",
+                    "6159263"
+                  ]
+                },
+                {
+                  "ingredient": "½ pound Arrezzio Imperial fancy shredded parmesan cheese",
+                  "supc_data": [
+                    "2039964",
+                    "4061558",
+                    "4066845",
+                    "1060771",
+                    "2389278"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Sysco Classic kosher salt",
+                  "supc_data": [
+                    "6040760",
+                    "3840752",
+                    "3888670",
+                    "4137398",
+                    "5218880",
+                    "6904759"
+                  ]
+                },
+                {
+                  "ingredient": "½ ounce Imperial/McCormick ground black pepper",
+                  "supc_data": [
+                    "5914908"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "MIS EN PLACE:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Peel potatoes, hold in water.",
+                "Combine the eggs and half and half.",
+                "Measure out and combine the parmesan and cheddar.",
+                "Combine the salt and pepper and mix. Preheat oven to 325°F.",
+                "Lightly oil and line the bottom of a 4\" half pan with parchment paper.",
+                "Use a mandolin to slice the potatoes lengthwise, into 1/6\" thick slices into a bowl. To keep the potatoes from curling and discoloring, slice them one at a time as you build the strata."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BUILD THE STRATA:",
+          "instruction_items": [
+            {
+              "subtitle": "Build the first layer, then repeat until the pan is full.",
+              "instruction_list": [
+                "Place 1/4 cup (2 fluid ounces) of the egg mixture onto the parchment in the pan.",
+                "Shingle layer the potatoes into the bottom of the pan, overlapping each potato slice by 50% to cover the entire pan base in a single layer.",
+                "Lightly season the potatoes with the salt/pepper mixture.",
+                "Lightly sprinkle about 2/3 cup cheese over the seasoned potatoes.",
+                "Repeat to create the second layer.",
+                "Every three layers of potatoes, add just enough egg mixture (about 1/3 cup) to cover the existing potato layers, but not enough to make them \"float\" in egg mix.",
+                "After adding the egg, press firmly onto the potatoes to work the mixture into the layers. Repeat until the pan is filled nearly to the top (leave a little room for the egg to expand) or you use all the potatoes."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BAKE THE STRATA:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Season the top layer with salt/pepper and top with cheese mix.",
+                "Place parchment over the top of the strata and cover with foil. Bake at 325°F for 2 hours or until the internal temperature reaches 180°F. (Potatoes should feel tender when poked with a skewer.)",
+                "Remove the pan, and carefully remove the foil and parchment, and if there are any pooled egg on top return to the oven for 10-15 minutes to finish cooking the eggs. Remove from the oven and cool in the refrigerator overnight."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PREPARING THE STRATA FOR SERVICE:",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Take the chilled strata and run a knife along the pan edges to release the sides of the strata from the pan.",
+                "Place a cutting board on top of the pan and invert to remove from the pan, then remove the parchment from the bottom of the strata.",
+                "Cut the upside-down strata into 4x4 inch squares, and then split those into triangles. (Cutting it upside down makes for cleaner cuts.)",
+                "Transfer the squares to a parchment or silpat-lined baking sheet and bake in a preheated 350°F oven for about 15 minutes or until heated through and serve."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*",
+        "Chef's notes: You can sub whole eggs for liquid eggs. 16 extra large eggs = about 20 ounces. If using whole eggs add 2 tablespoons OJ, to keep the eggs a bright yellow when cooked. This dish is best if baked & cooled the day before you want to serve it. If serving on the same day allow to rest 30 minutes after fully baking."
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/10/IMG_4314-1-scaled.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 29305,
+      "status": "publish",
+      "dateGMT": "2022-09-16T19:48:33Z",
+      "modifiedGMT": "2022-09-16T19:48:34Z",
+      "slug": "deviled-eggs-with-habanero-hot-bacon-jam",
+      "link": "https://foodie.sysco.com/recipes/deviled-eggs-with-habanero-hot-bacon-jam/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 239,
+          "value": "Appetizer"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 365,
+          "value": "Eggs"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 9224,
+          "value": "Appetizer"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 336,
+          "value": "Boil"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/09/habanero-hot-bacon-jam-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/09/habanero-hot-bacon-jam-300x200.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/09/habanero-hot-bacon-jam-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Appetizer"
+      ],
+      "title": "Deviled Eggs with Habanero Hot Bacon Jam",
+      "slogan": null,
+      "chefName": "Sysco Culinary Team",
+      "chefLocation": "Houston, TX",
+      "prepTimeDuration": "10",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "5",
+      "cookTimeUnit": "min",
+      "servings": "4",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "3 teaspoons Sysco Imperial Habanero Hot Bacon Jam",
+                  "supc_data": [
+                    "7210373"
+                  ]
+                },
+                {
+                  "ingredient": "12 each Wholesome Farms Classic eggs, hard boiled",
+                  "supc_data": [
+                    "5069350",
+                    "5069368",
+                    "8912230",
+                    "1102730",
+                    "1102748",
+                    "1102763",
+                    "1165711",
+                    "1165711",
+                    "1466465",
+                    "2105765",
+                    "2105781",
+                    "2105815",
+                    "2105823",
+                    "2105849",
+                    "3205323",
+                    "3602786",
+                    "3205347"
+                  ]
+                },
+                {
+                  "ingredient": "1 tbsp Sysco Imperial mayonnaise",
+                  "supc_data": [
+                    "4002416"
+                  ]
+                },
+                {
+                  "ingredient": "to taste, Sysco Classic kosher salt",
+                  "supc_data": [
+                    "6040760"
+                  ]
+                },
+                {
+                  "ingredient": "as garnish, Sysco Imperial/McCormick black pepper",
+                  "supc_data": [
+                    "5229273",
+                    "5229281",
+                    "5229356",
+                    "5229331"
+                  ]
+                },
+                {
+                  "ingredient": "as garnish, micro greens",
+                  "supc_data": [
+                    "7010329",
+                    "2530562",
+                    "7460025",
+                    "9744293",
+                    "7011592",
+                    "6421465",
+                    "9075235",
+                    "8013425"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Slice eggs in half, take out the hard-boiled egg yolk and place into a mixing bowl.",
+                "Mix together egg yolk, mayonnaise and Habanero Hot Bacon Jam.   Salt & pepper to taste.",
+                "Fill the yolk mixture into a piping bag and pipe into the open faced sliced eggs.",
+                "Top with more Habanero Hot Bacon Jam (Optional)."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/09/habanero-hot-bacon-jam-scaled.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27791,
+      "status": "publish",
+      "dateGMT": "2022-06-08T22:09:14Z",
+      "modifiedGMT": "2022-06-08T22:09:18Z",
+      "slug": "lovely-lobster-roll",
+      "link": "https://foodie.sysco.com/recipes/lovely-lobster-roll/",
+      "categories": [
+        {
+          "WPID": 38,
+          "value": "Recipes"
+        }
+      ],
+      "tags": [
+        {
+          "WPID": 224,
+          "value": "Lobster"
+        },
+        {
+          "WPID": 146,
+          "value": "Sandwich"
+        },
+        {
+          "WPID": 73,
+          "value": "Seafood"
+        },
+        {
+          "WPID": 155,
+          "value": "Shellfish"
+        }
+      ],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 9174,
+          "value": "Lobster"
+        },
+        {
+          "WPID": 432,
+          "value": "Seafood"
+        },
+        {
+          "WPID": 272,
+          "value": "Shellfish"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 324,
+          "value": "Sandwich"
+        },
+        {
+          "WPID": 9176,
+          "value": "Seafood dish"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/06/Lovely-Lobster-Roll-Chef-Amy-Elliot-600x600-1-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/06/Lovely-Lobster-Roll-Chef-Amy-Elliot-600x600-1-300x300.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/06/Lovely-Lobster-Roll-Chef-Amy-Elliot-600x600-1.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Main Dish"
+      ],
+      "title": "Lovely Lobster Roll",
+      "slogan": null,
+      "chefName": "Chef Amy Elliott",
+      "chefLocation": "Sysco Minnesota",
+      "prepTimeDuration": "10",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "3",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": "Fresno Butter",
+              "ingredient_list": [
+                {
+                  "ingredient": "Butter Solid Unsalted",
+                  "supc_data": [
+                    "5926910"
+                  ]
+                },
+                {
+                  "ingredient": "Salt Kosher",
+                  "supc_data": [
+                    "6040760",
+                    "3840752",
+                    "3888670",
+                    "4137398",
+                    "5218880",
+                    "6904759"
+                  ]
+                },
+                {
+                  "ingredient": "Pepper Red Fresno",
+                  "supc_data": [
+                    "2129856",
+                    "2841351",
+                    "2161170"
+                  ]
+                },
+                {
+                  "ingredient": "Sugar Granulated Extra Fine Cane",
+                  "supc_data": [
+                    "1801141",
+                    "2926727",
+                    "4782694",
+                    "5087572"
+                  ]
+                },
+                {
+                  "ingredient": "Cilantro Cleaned, Washed & Fresh Herb",
+                  "supc_data": [
+                    "1048248",
+                    "2004612",
+                    "2004620",
+                    "2219095",
+                    "8539017"
+                  ]
+                },
+                {
+                  "ingredient": "Lime Juice Powder",
+                  "supc_data": [
+                    "7138037"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtitle": "Lobster Roll",
+              "ingredient_list": [
+                {
+                  "ingredient": "Bread Roll New England 6 Inch Slice",
+                  "supc_data": [
+                    "7117235",
+                    "7000774",
+                    "6269134",
+                    "8279143"
+                  ]
+                },
+                {
+                  "ingredient": "Lobster Meat Claw Knuckle Dry",
+                  "supc_data": [
+                    "4355382",
+                    "5001957",
+                    "4355382",
+                    "7124974"
+                  ]
+                },
+                {
+                  "ingredient": "Green Micro Cilantro",
+                  "supc_data": [
+                    "3997430"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": "Fresno Butter",
+              "instruction_list": [
+                "In a medium size bowl add 3 lb.'s butter and .5 oz. salt. Blend until light and fluffy. In another bowl add 14oz of Fresno peppers diced (about 24 whole peppers). Coat diced peppers with 8 oz. sugar. Let stand until sugar has melted. Add the pepper & sugar mixture to the butter along with 8 oz. cilantro and\n 10 oz. lime juice powder.",
+                "Store in airtight container in freezer or cooler."
+              ]
+            },
+            {
+              "subtitle": "Lobster Roll",
+              "instruction_list": [
+                "Make the Fresno butter according to recipe. Apply butter to cut sides of the New England roll, toast on flat top until golden brown on both sides. Melt 2 oz. of Fresno butter in skillet, toss in 3 oz. of lobster meat in the Fresno butter and cook until hot.",
+                "Place lobster meat in the roll and garnish with cilantro microgreens."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/06/Lovely-Lobster-Roll-Chef-Amy-Elliot-600x600-1.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27269,
+      "status": "publish",
+      "dateGMT": "2022-06-02T23:10:23Z",
+      "modifiedGMT": "2022-06-02T23:10:24Z",
+      "slug": "spicy-alaska-fish-taco-bowlswith-cabbage-slaw",
+      "link": "https://foodie.sysco.com/recipes/spicy-alaska-fish-taco-bowlswith-cabbage-slaw/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 270,
+          "value": "Fish"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        },
+        {
+          "WPID": 315,
+          "value": "Fusion"
+        },
+        {
+          "WPID": 291,
+          "value": "Tex-Mex"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 517,
+          "value": "Bowl"
+        },
+        {
+          "WPID": 9176,
+          "value": "Seafood dish"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 3134,
+          "value": "Fry"
+        },
+        {
+          "WPID": 512,
+          "value": "Toss"
+        }
+      ],
+      "featureMedia": {
+        "medium": null,
+        "thumbnail": null,
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Spicy-Alaska-Fish-Taco-Bowls-with-Cabbage-Slaw-950x850.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dinner"
+      ],
+      "title": "Spicy Alaska Fish Taco Bowlswith Cabbage Slaw",
+      "slogan": null,
+      "chefName": "Alaska Seafood®",
+      "chefLocation": "alaskaseafood.org",
+      "prepTimeDuration": "15",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "15",
+      "cookTimeUnit": "min",
+      "servings": "4",
+      "description": null,
+      "ingredients": [
+        {
+          "title": "For Alaska Pollock",
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "1 lb. Portico Classic Pollock Alaska Bite Battered Pub Style",
+                  "supc_data": [
+                    "7070047",
+                    "7070046",
+                    "7069953"
+                  ]
+                },
+                {
+                  "ingredient": "½ c. Wholesome Farms Imperial Sour Cream",
+                  "supc_data": [
+                    "0284861",
+                    "0392841",
+                    "1203207",
+                    "1544113",
+                    "4041206",
+                    "4434795",
+                    "4434811",
+                    "5020193"
+                  ]
+                },
+                {
+                  "ingredient": "2 Tbsp. Pepper Chipotle in Adobo Sauce (to taste)",
+                  "supc_data": [
+                    "5757091",
+                    "2078388",
+                    "1836790",
+                    "5540620",
+                    "3815610"
+                  ]
+                },
+                {
+                  "ingredient": "3 Tsp. Sysco Natural Fresh Lime Juice (or about 1/2 lime)",
+                  "supc_data": [
+                    "3865730",
+                    "8768871"
+                  ]
+                },
+                {
+                  "ingredient": "1 Tbsp. Imperial Fresh Cilantro Chopped",
+                  "supc_data": [
+                    "1048248",
+                    "2004612",
+                    "2004620",
+                    "2219095",
+                    "8539017"
+                  ]
+                },
+                {
+                  "ingredient": "2 c. Imperial Fresh Red Cabbage Finely Shredded",
+                  "supc_data": [
+                    "1675719",
+                    "6517270"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Toppings",
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "2 c. Brown Rice, Cooked",
+                  "supc_data": [
+                    "2451243"
+                  ]
+                },
+                {
+                  "ingredient": "1½ c. Sysco Classic Corn Whole Kernel Grade A",
+                  "supc_data": [
+                    "1577584",
+                    "1653971",
+                    "3533486",
+                    "3837358",
+                    "3982386",
+                    "3984952"
+                  ]
+                },
+                {
+                  "ingredient": "1 c. Imperial Fresh Radish Red, Thinly Sliced",
+                  "supc_data": [
+                    "8397747",
+                    "9830407",
+                    "6894232",
+                    "7441157"
+                  ]
+                },
+                {
+                  "ingredient": "½ ea. Imperial Fresh Lime, Cut Into Wedges",
+                  "supc_data": [
+                    "7412570",
+                    "9578964",
+                    "9041435"
+                  ]
+                },
+                {
+                  "ingredient": "¼ c. Imperial Fresh Cilantro Leaves",
+                  "supc_data": [
+                    "1048248",
+                    "2004612",
+                    "2004620",
+                    "2219095",
+                    "8539017"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Prepare Fish",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Fry frozen portions at 350F for 3-4 minutes or until reaching internal temperature of 165F."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prepare Sauce",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Make the sauce by mixing the sour cream, chipotle sauce (or your favorite hot sauce), lime juice, and cilantro in a bowl."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prepare Toppings/Garnishes",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Prep your toppings and garnishes. Toss 1/3 cup of the chipotle sauce with the cabbage for the slaw."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "To Serve",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Place brown rice in a bowl with the fish, and top with cabbage slaw, radish, avocado, corn, and additional sauce."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Spicy-Alaska-Fish-Taco-Bowls-with-Cabbage-Slaw-950x850.png"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27268,
+      "status": "publish",
+      "dateGMT": "2022-05-27T22:50:06Z",
+      "modifiedGMT": "2022-05-27T22:50:09Z",
+      "slug": "watermelon-feta-salad",
+      "link": "https://foodie.sysco.com/recipes/watermelon-feta-salad/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 167,
+          "value": "Salad"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 279,
+          "value": "Fruit"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 317,
+          "value": "Salad"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 512,
+          "value": "Toss"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/WATERMELON-FETA-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/WATERMELON-FETA-225x300.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/WATERMELON-FETA-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Salad"
+      ],
+      "title": "Watermelon Feta Salad",
+      "slogan": null,
+      "chefName": "Chef Tyson Lord",
+      "chefLocation": "Virginia Beach, VA",
+      "prepTimeDuration": "5",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "-",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "1 c. Imperial Fresh Melon Watermelon Seedless",
+                  "supc_data": [
+                    "3855293"
+                  ]
+                },
+                {
+                  "ingredient": "2 oz. Sysco Imperial Cheese Feta Crumbled",
+                  "supc_data": [
+                    "0120899",
+                    "0135632",
+                    "4507974"
+                  ]
+                },
+                {
+                  "ingredient": "1 oz. Imperial Fresh Arugula Baby",
+                  "supc_data": [
+                    "5142072"
+                  ]
+                },
+                {
+                  "ingredient": "1 oz. Imperial Fresh Lettuce Fresh Tender Greens",
+                  "supc_data": [
+                    "1132050"
+                  ]
+                },
+                {
+                  "ingredient": "2 fl. oz. Sysco Imperial Dressing Balsamic Olive Vinaigrette",
+                  "supc_data": [
+                    "7872328"
+                  ]
+                },
+                {
+                  "ingredient": ".20 ea. Cucumber English Large Seedless 12 Count",
+                  "supc_data": [
+                    "1735372",
+                    "7134591",
+                    "7134593"
+                  ]
+                },
+                {
+                  "ingredient": "¼ oz. Imperial Fresh Mint",
+                  "supc_data": [
+                    "2037109",
+                    "2037117",
+                    "2037125",
+                    "4509436",
+                    "7187552"
+                  ]
+                },
+                {
+                  "ingredient": "1 oz. Imperial Fresh Onion Red Jumbo Bag",
+                  "supc_data": [
+                    "1039494",
+                    "1094663",
+                    "1623610",
+                    "3341104",
+                    "5098905",
+                    "8313967",
+                    "8399925",
+                    "8877748",
+                    "1705995"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Using melon baller, ball watermelon. Set aside.",
+                "Place all greens, shaved red onion and cucumber into a stainless steel bowl. Add vinaigrette. With gloved hands, mix well.",
+                "Turn out dressed greens and veggies into a chilled entrée bowl, emphasizing height. Place 5-6 melon balls around and on top of dressed greens.",
+                "Crumble feta over the top. Sprinkle freshly cut mint over the top of feta.\nOptional: drizzle with Corto extra virgin olive oil to finish. Serve immediately."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/WATERMELON-FETA-950x850.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27301,
+      "status": "publish",
+      "dateGMT": "2022-05-27T22:40:47Z",
+      "modifiedGMT": "2022-05-27T22:40:48Z",
+      "slug": "pan-fried-alaska-pollock-with-tomato-rhubarb-relish",
+      "link": "https://foodie.sysco.com/recipes/pan-fried-alaska-pollock-with-tomato-rhubarb-relish/",
+      "categories": [],
+      "tags": [
+        {
+          "WPID": 70,
+          "value": "Fish"
+        },
+        {
+          "WPID": 529,
+          "value": "Pollock"
+        },
+        {
+          "WPID": 73,
+          "value": "Seafood"
+        }
+      ],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 270,
+          "value": "Fish"
+        },
+        {
+          "WPID": 432,
+          "value": "Seafood"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 359,
+          "value": "Fish Dish"
+        },
+        {
+          "WPID": 9176,
+          "value": "Seafood dish"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/Pollock-600x600-1-300x245.png",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/Pollock-600x600-1-300x300.png",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Pollock-600x600-1.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Main Dish"
+      ],
+      "title": "Pan-fried Alaska Pollock with Tomato-Rhubarb Relish",
+      "slogan": null,
+      "chefName": "Alaska Seafood®",
+      "chefLocation": "alaskaseafood.org",
+      "prepTimeDuration": "10",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "30",
+      "cookTimeUnit": "min",
+      "servings": "4",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "Salt Kosher Flake Coarse",
+                  "supc_data": [
+                    "6040760",
+                    "3840752",
+                    "3888670",
+                    "4137398",
+                    "5218880",
+                    "6904759"
+                  ]
+                },
+                {
+                  "ingredient": "Spice Pepper Black Table Ground Medium",
+                  "supc_data": [
+                    "6639827"
+                  ]
+                },
+                {
+                  "ingredient": "Pollock Filet Alaskan",
+                  "supc_data": [
+                    "2421766",
+                    "1173327",
+                    "2086106"
+                  ]
+                },
+                {
+                  "ingredient": "Corn Meal Yellow",
+                  "supc_data": [
+                    "4014775",
+                    "4456661",
+                    "7108262"
+                  ]
+                },
+                {
+                  "ingredient": "Oil Canola",
+                  "supc_data": [
+                    "3222686",
+                    "5131046"
+                  ]
+                },
+                {
+                  "ingredient": "Butter Unsalted Danish Premium",
+                  "supc_data": [
+                    "9633736",
+                    "7836554",
+                    "8404872"
+                  ]
+                },
+                {
+                  "ingredient": "Shallot Peeled Fresh",
+                  "supc_data": [
+                    "1821529",
+                    "2415859",
+                    "9582545"
+                  ]
+                },
+                {
+                  "ingredient": "Tomato Cherry Fresh",
+                  "supc_data": [
+                    "2110161",
+                    "2203024",
+                    "6894257",
+                    "9308719",
+                    "1000306"
+                  ]
+                },
+                {
+                  "ingredient": "1/2 cup diced fresh Rhubarb",
+                  "supc_data": [
+                    "3062397",
+                    "6271607",
+                    "1393511"
+                  ]
+                },
+                {
+                  "ingredient": "Honey Pure",
+                  "supc_data": [
+                    "4361432",
+                    "8826893",
+                    "3374097",
+                    "3530128",
+                    "5611645",
+                    "4460176",
+                    "4932000"
+                  ]
+                },
+                {
+                  "ingredient": "Parsley Fresh Herb",
+                  "supc_data": [
+                    "1814013",
+                    "2058907",
+                    "2058972",
+                    "2219111",
+                    "4509543",
+                    "6831515",
+                    "7410723"
+                  ]
+                },
+                {
+                  "ingredient": "Orange Fresh",
+                  "supc_data": [
+                    "7412604",
+                    "7651841",
+                    "7651910"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Prepare Fish: Stir together 1 tsp. salt and1/2 tsp pepper. Sprinkle evenly over fish on both sides. Gently toss fish with cornmeal coating evenly.\nHeat oil in large cast iron skillet over medium heat. When oil is hot add fish and cook until golden and crisped, about 2-3 minutes per side. Drain on a wire rack and keep warm.",
+                "Prepare Relish: Melt butter in a medium skillet over medium-low heat. Add shallots and saute until tender, about 2-3 minutes. Stir in 1 cup of tomatoes, 1/2 cup diced rhubarb and saute until rhubard is tender, about 2-3 minutes. Remove from heat and stir in 1.5 tbsp. honey, 1 tbsp. parsley and 1 tsp. fresh orange zest. Season with salt and pepper to taste.",
+                "Serve: Spoon warm relish over fish and serve immediately."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Pollock-600x600-1.png"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27354,
+      "status": "publish",
+      "dateGMT": "2022-05-27T22:38:26Z",
+      "modifiedGMT": "2022-05-27T22:38:28Z",
+      "slug": "alaska-pollock-frites-trio-of-toppings",
+      "link": "https://foodie.sysco.com/recipes/alaska-pollock-frites-trio-of-toppings/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 239,
+          "value": "Appetizer"
+        },
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 270,
+          "value": "Fish"
+        },
+        {
+          "WPID": 432,
+          "value": "Seafood"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 359,
+          "value": "Fish Dish"
+        },
+        {
+          "WPID": 4675,
+          "value": "Fried Food"
+        },
+        {
+          "WPID": 4324,
+          "value": "Fried Food Appetizer"
+        },
+        {
+          "WPID": 9176,
+          "value": "Seafood dish"
+        },
+        {
+          "WPID": 9159,
+          "value": "Seafood starter"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/Alaska-Pollock-Frites-Trio-of-Toppings-600x600-1-300x245.png",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/Alaska-Pollock-Frites-Trio-of-Toppings-600x600-1-300x300.png",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Alaska-Pollock-Frites-Trio-of-Toppings-600x600-1.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Appetizer"
+      ],
+      "title": "Alaska Pollock Frites & Trio of Toppings",
+      "slogan": null,
+      "chefName": "Alaska Seafood®",
+      "chefLocation": "alaskaseafood.org",
+      "prepTimeDuration": "30",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "10",
+      "cookTimeUnit": "min",
+      "servings": "12",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": "Asian-style gremolata",
+              "ingredient_list": [
+                {
+                  "ingredient": "Onion Green",
+                  "supc_data": [
+                    "1609403",
+                    "7350788",
+                    "8113987",
+                    "8678120",
+                    "9422098",
+                    "3262672"
+                  ]
+                },
+                {
+                  "ingredient": "Jalapeno Fresh",
+                  "supc_data": [
+                    "1185156",
+                    "1350276",
+                    "6832216",
+                    "6908206",
+                    "6908206",
+                    "9767179"
+                  ]
+                },
+                {
+                  "ingredient": "Garlic Peeled Fresh",
+                  "supc_data": [
+                    "1821537",
+                    "7127443",
+                    "8853954"
+                  ]
+                },
+                {
+                  "ingredient": "Ginger Fresh",
+                  "supc_data": [
+                    "1185545",
+                    "2257921",
+                    "3880168"
+                  ]
+                },
+                {
+                  "ingredient": "Cilantro Fresh",
+                  "supc_data": [
+                    "8539017",
+                    "2219095"
+                  ]
+                },
+                {
+                  "ingredient": "Sea Salt",
+                  "supc_data": [
+                    "4723581",
+                    "0883066",
+                    "9901384"
+                  ]
+                },
+                {
+                  "ingredient": "Spice Pepper Black",
+                  "supc_data": [
+                    "6639827"
+                  ]
+                },
+                {
+                  "ingredient": "Corn Starch",
+                  "supc_data": [
+                    "4073441",
+                    "4236105"
+                  ]
+                },
+                {
+                  "ingredient": "Vegetable Oil Pure",
+                  "supc_data": [
+                    "4119061",
+                    "4119079"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtitle": "Greek Feta Topping",
+              "ingredient_list": [
+                {
+                  "ingredient": "Feta Cheese Crumbled",
+                  "supc_data": [
+                    "0120899",
+                    "0135632",
+                    "4507974"
+                  ]
+                },
+                {
+                  "ingredient": "Lemon Zest",
+                  "supc_data": [
+                    "0376402",
+                    "2252005",
+                    "2252013",
+                    "2252021",
+                    "2252039",
+                    "2252138",
+                    "2252120"
+                  ]
+                },
+                {
+                  "ingredient": "Olive Oil",
+                  "supc_data": [
+                    "4477941",
+                    "4477962",
+                    "5846714",
+                    "7064341",
+                    "7141728",
+                    "7141804"
+                  ]
+                },
+                {
+                  "ingredient": "Fresh Lemon Juice",
+                  "supc_data": [
+                    "3865649",
+                    "3944574",
+                    "4063095"
+                  ]
+                },
+                {
+                  "ingredient": "Spice Oregano",
+                  "supc_data": [
+                    "3492692",
+                    "7037610",
+                    "3492692"
+                  ]
+                },
+                {
+                  "ingredient": "Spice Thyme",
+                  "supc_data": [
+                    "5913504"
+                  ]
+                },
+                {
+                  "ingredient": "Spice Dill Weed",
+                  "supc_data": [
+                    "5228770"
+                  ]
+                },
+                {
+                  "ingredient": "Onion Powder",
+                  "supc_data": [
+                    "5229117",
+                    "5229125"
+                  ]
+                },
+                {
+                  "ingredient": "Garlic Powder",
+                  "supc_data": [
+                    "9806449",
+                    "6639165",
+                    "3492602",
+                    "3492836",
+                    "5239611",
+                    "5228820",
+                    "5239629",
+                    "9806456"
+                  ]
+                },
+                {
+                  "ingredient": "Red Pepper Flakes Crushed",
+                  "supc_data": [
+                    "5913454",
+                    "5229448",
+                    "9806423"
+                  ]
+                },
+                {
+                  "ingredient": "Olives Kalamata",
+                  "supc_data": [
+                    "5429766"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtitle": "Fresh Salsa",
+              "ingredient_list": [
+                {
+                  "ingredient": "Tomato Fresh",
+                  "supc_data": [
+                    "1763440",
+                    "1008663"
+                  ]
+                },
+                {
+                  "ingredient": "Cilantro Fresh",
+                  "supc_data": [
+                    "8539017",
+                    "2219095"
+                  ]
+                },
+                {
+                  "ingredient": "Onion Yellow",
+                  "supc_data": [
+                    "1000405",
+                    "1094721",
+                    "8313918",
+                    "5430202",
+                    "1074747",
+                    "7750243"
+                  ]
+                },
+                {
+                  "ingredient": "Pepper Jalapeno Fresh",
+                  "supc_data": [
+                    "1185156",
+                    "1350276",
+                    "6832216",
+                    "6908206",
+                    "6908206",
+                    "9767179"
+                  ]
+                },
+                {
+                  "ingredient": "Lime Juice Fresh",
+                  "supc_data": [
+                    "3865730",
+                    "8768871"
+                  ]
+                },
+                {
+                  "ingredient": "Sea Salt",
+                  "supc_data": [
+                    "4723581",
+                    "0883066",
+                    "9901384"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtitle": "Pollock",
+              "ingredient_list": [
+                {
+                  "ingredient": "Pollock Filet Alaskan",
+                  "supc_data": [
+                    "2421766",
+                    "1173327",
+                    "2086106"
+                  ]
+                },
+                {
+                  "ingredient": "Sauce Lime Ponzu",
+                  "supc_data": [
+                    "8700057"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Prepare Gremolata - Dredge 4 oz. chopped green onions, 2 oz. jalapeno slices, 2 oz. garlic, 1 oz. julienned ginger. Fry in hot oil for one minute until garlic is golden brown. Let cool and toss with 1 oz. cilantro and salt and pepper to taste. Reserve.",
+                "Prepare Feta - Combine 1.5 cups crumbled feta cheese, 1 tbsp lemon zest, 2 tbsp. fresh lemon juice, 1 tbsp olive oil, 1.5 tsp. oregano, .5 tsp. thyme, .5 tsp. dill, .5 tsp onion powder, .5 tsp. garlic powder, .5 tsp. crushed red pepper flakes, .5 cup pitted chopped kalamata olives. Cover and refrigerate until serving.",
+                "Prepare Salsa - Combine 2 diced and seeded tomatoes, 1/3 cup chopped fresh cilantro, 3 tbsp. finely chopped onion, 2 tbsp. minced jalapeno, 1 tbsp. fresh lime juice, .5 tsp. sea salt. Cover and refrigerate until serving.",
+                "Prepare pollock - cut 3-4 lbs. of pollock filets into 1 to 1.5 oz. \"frite\" shapes. Heat oil on a fryer to 375F. Season Alaska pollock with salt and pepper to taste and dredge in cornstarch. Fry pollock 2-3 minutes until fully cooked throughout. Place pollock frites in a parchment-lined cup or French fry basket. Drizzle with lime 12 tbsp. lime ponzu. Serve with gremolata or the trio of toppings."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Alaska-Pollock-Frites-Trio-of-Toppings-600x600-1.png"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27270,
+      "status": "publish",
+      "dateGMT": "2022-05-27T22:13:27Z",
+      "modifiedGMT": "2022-06-22T15:07:03Z",
+      "slug": "charcuterie-fry-board",
+      "link": "https://foodie.sysco.com/recipes/charcuterie-fry-board/",
+      "categories": [],
+      "tags": [
+        {
+          "WPID": 255,
+          "value": "French Fries"
+        },
+        {
+          "WPID": 363,
+          "value": "Fries"
+        },
+        {
+          "WPID": 2005,
+          "value": "Potatoes"
+        }
+      ],
+      "recipeTypes": [
+        {
+          "WPID": 239,
+          "value": "Appetizer"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 281,
+          "value": "Potatoes"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 4675,
+          "value": "Fried Food"
+        },
+        {
+          "WPID": 4324,
+          "value": "Fried Food Appetizer"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/Fry-Board-600x600-1-300x245.png",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/Fry-Board-600x600-1-300x300.png",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Fry-Board-600x600-1.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Appetizer"
+      ],
+      "title": "Charcuterie Fry Board",
+      "slogan": null,
+      "chefName": "Chef Luis Reyes",
+      "chefLocation": "West Coast Florida",
+      "prepTimeDuration": "20",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "15",
+      "cookTimeUnit": "min",
+      "servings": "4",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "Potato Fry 3/8″ Long Spicy",
+                  "supc_data": [
+                    "1720622",
+                    "0924647",
+                    "1994211",
+                    "1998861",
+                    "1998899",
+                    "2000218"
+                  ]
+                },
+                {
+                  "ingredient": "Potato Fry Wedge Skin-on 6-cut Deli",
+                  "supc_data": [
+                    "2000812",
+                    "1497049",
+                    "2000232",
+                    "2000244",
+                    "2000812"
+                  ]
+                },
+                {
+                  "ingredient": "Potato Fry Crinkle Cut 5/16″ Extra Long",
+                  "supc_data": [
+                    "2031076",
+                    "1994589",
+                    "6408603"
+                  ]
+                },
+                {
+                  "ingredient": "Potato Fry Sidewinder Beer Battered",
+                  "supc_data": [
+                    "2505711"
+                  ]
+                },
+                {
+                  "ingredient": "Potato Fry Sweet Waffle",
+                  "supc_data": [
+                    "4390807"
+                  ]
+                },
+                {
+                  "ingredient": "Potato Fry Sweet 1/4″ x 1/2″",
+                  "supc_data": [
+                    "5020223"
+                  ]
+                },
+                {
+                  "ingredient": "Potato Fry Skin-on Waffle",
+                  "supc_data": [
+                    "6291926",
+                    "4390807",
+                    "2000139",
+                    "1977107"
+                  ]
+                },
+                {
+                  "ingredient": "Potato Fry Spiral Seasoned",
+                  "supc_data": [
+                    "4295669",
+                    "9714213"
+                  ]
+                },
+                {
+                  "ingredient": "Onion Green Iceless",
+                  "supc_data": [
+                    "7350788",
+                    "8678120",
+                    "6728232"
+                  ]
+                },
+                {
+                  "ingredient": "Bacon Bit Real Cooked Fine",
+                  "supc_data": [
+                    "5237170"
+                  ]
+                },
+                {
+                  "ingredient": "Mayonnaise Real 1756",
+                  "supc_data": [
+                    "5992474",
+                    "3716701"
+                  ]
+                },
+                {
+                  "ingredient": "Mustard French Whole Grain",
+                  "supc_data": [
+                    "4064986"
+                  ]
+                },
+                {
+                  "ingredient": "Sauce Chili Hot Sriracha",
+                  "supc_data": [
+                    "2451417",
+                    "2658443"
+                  ]
+                },
+                {
+                  "ingredient": "Cilantro Cleaned Washed Fresh Herb",
+                  "supc_data": [
+                    "8539017",
+                    "2219095"
+                  ]
+                },
+                {
+                  "ingredient": "Lime Fresh",
+                  "supc_data": [
+                    "7412570",
+                    "9578964",
+                    "9041435"
+                  ]
+                },
+                {
+                  "ingredient": "Cheese Cheddar Jack Fancy Shredded",
+                  "supc_data": [
+                    "2406189",
+                    "2819718",
+                    "7018103",
+                    "2370179"
+                  ]
+                },
+                {
+                  "ingredient": "Ketchup Squeeze Red Upside Down",
+                  "supc_data": [
+                    "6638738",
+                    "5686266",
+                    "8382129",
+                    "1111111",
+                    "9431024"
+                  ]
+                },
+                {
+                  "ingredient": "Mike’s Hot Honey",
+                  "supc_data": [
+                    "7022265",
+                    "7179024",
+                    "7022281",
+                    "7056981"
+                  ]
+                },
+                {
+                  "ingredient": "Cheese Parmesan Shaved",
+                  "supc_data": [
+                    "4607023",
+                    "2389278"
+                  ]
+                },
+                {
+                  "ingredient": "Truffle Black Zest",
+                  "supc_data": [
+                    "7014647"
+                  ]
+                },
+                {
+                  "ingredient": "Shortening Fry-On Liquid",
+                  "supc_data": [
+                    "7644909"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "For Mayo Ketchup: combine 2 oz. mayo, 2 oz. ketchup, lime juice from 1/2 of a squeezed lime, .5 oz. chopped cilantro, 1 oz. sriracha and keep chilled.\nFor Mayo-Mustard: combine 2 oz. mayo, 2 oz. mustard and keep chilled.",
+                "Cook 1 oz. of bacon bits in a pan until crispy, render and reserve. Fry the potatoes, keep them hot and place on board with butcher paper.",
+                "Top the Crinkle Cut fries with 1 oz. cheese, bacon & 1 oz. sliced green onions.\nDrizzle 1 oz. of Hot Honey over the potato planks.\nSeason the sidewinders with .01 oz of truffle black zest and top with 2 oz. of shaved parmesan.",
+                "Place ramekins of ketchup, mayo-ketchup and mayo-mustard on the board and serve."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Fry-Board-600x600-1.png"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27194,
+      "status": "publish",
+      "dateGMT": "2022-05-19T13:58:51Z",
+      "modifiedGMT": "2022-05-19T14:26:38Z",
+      "slug": "chicago-style-bbq-rib-tips",
+      "link": "https://foodie.sysco.com/recipes/chicago-style-bbq-rib-tips/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 268,
+          "value": "Pork"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        },
+        {
+          "WPID": 302,
+          "value": "BBQ"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 4321,
+          "value": "Barbecue"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 426,
+          "value": "Smoked"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/Chicago-Style-Rib-Tips-Chef-Klaus-Mandl-Chicago-1-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/Chicago-Style-Rib-Tips-Chef-Klaus-Mandl-Chicago-1-300x225.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Chicago-Style-Rib-Tips-Chef-Klaus-Mandl-Chicago-1-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Main Dish"
+      ],
+      "title": "Chicago Style BBQ Rib Tips",
+      "slogan": null,
+      "chefName": "Chef Klaus Mandi",
+      "chefLocation": "Sysco Chicago",
+      "prepTimeDuration": null,
+      "prepTimeUnit": null,
+      "cookTimeDuration": null,
+      "cookTimeUnit": null,
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "2 lbs. Pork Spare Rib Brisket Rib Tip",
+                  "supc_data": []
+                },
+                {
+                  "ingredient": "50 g. Sysco Imperial/McCormick Spice Chili Powder Dark",
+                  "supc_data": [
+                    "5228549",
+                    "5913694",
+                    "5228564",
+                    "9806498",
+                    "5327463",
+                    "5329496",
+                    "5228580",
+                    "9951690"
+                  ]
+                },
+                {
+                  "ingredient": "15 g. Sysco Imperial/McCormick Spice Pepper Black Coarse Ground",
+                  "supc_data": [
+                    "5229273",
+                    "5229281",
+                    "5229356",
+                    "5229331"
+                  ]
+                },
+                {
+                  "ingredient": "35 g. Sysco Imperial/McCormick Spice Garlic Granulated",
+                  "supc_data": [
+                    "3492602",
+                    "3492836",
+                    "5228820"
+                  ]
+                },
+                {
+                  "ingredient": "25 g. Sysco Imperial/McCormick Spice Paprika Extra Fancy",
+                  "supc_data": [
+                    "5229182",
+                    "5229240",
+                    "5254743",
+                    "5229174"
+                  ]
+                },
+                {
+                  "ingredient": "75 g. Sysco Classic Salt Kosher Flake Coarse",
+                  "supc_data": [
+                    "6040760",
+                    "3840752",
+                    "3888670",
+                    "4137398",
+                    "5218880",
+                    "6904759"
+                  ]
+                },
+                {
+                  "ingredient": "70 g. Sugar Turbinado",
+                  "supc_data": []
+                },
+                {
+                  "ingredient": "6 fl. oz. Sysco Imperial Sauce Barbeque Original",
+                  "supc_data": [
+                    "4602732",
+                    "4606228",
+                    "4606261",
+                    "4606329",
+                    "4606388",
+                    "4606293"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Mix all spices together to create a rub.",
+                "Rub the spice blend evenly over the rib tips and let sit uncovered in refrigerator for 24 hours.",
+                "After 24 hours place in front of fan for 4 hours to develop pellice.",
+                "Smoke in smoker at 225F degrees until interal temperature reaches 160F degrees.",
+                "Wrap in paper and finish until interal temperature reaches 190F degrees.",
+                "Keep in paper until ready to serve, if used right away, or cool down and reheat if used at a later time.",
+                "Serve with favorite BBQ sauce and coleslaw."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Chicago-Style-Rib-Tips-Chef-Klaus-Mandl-Chicago-1-950x850.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27174,
+      "status": "publish",
+      "dateGMT": "2022-05-19T13:49:23Z",
+      "modifiedGMT": "2022-05-19T13:49:25Z",
+      "slug": "burnt-ends-over-onion-straws",
+      "link": "https://foodie.sysco.com/recipes/burnt-ends-over-onion-straws/",
+      "categories": [],
+      "tags": [
+        {
+          "WPID": 520,
+          "value": "BBQ"
+        },
+        {
+          "WPID": 75,
+          "value": "Beef"
+        }
+      ],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 267,
+          "value": "Beef"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        },
+        {
+          "WPID": 302,
+          "value": "BBQ"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 4321,
+          "value": "Barbecue"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/Burnt-ends-over-onion-straws-600x600.jpg-300x245.png",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/Burnt-ends-over-onion-straws-600x600.jpg-300x300.png",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Burnt-ends-over-onion-straws-600x600.jpg.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Main Dish"
+      ],
+      "title": "Burnt Ends Over Onion Straws",
+      "slogan": null,
+      "chefName": "Chef Andrew Langdon",
+      "chefLocation": "Sysco Kansas City",
+      "prepTimeDuration": "15",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "360",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "Beef Brisket Points Raw Frozen",
+                  "supc_data": [
+                    "7054835",
+                    "3463384",
+                    "7091547"
+                  ]
+                },
+                {
+                  "ingredient": "Sauce BBQ Kansas City Style",
+                  "supc_data": [
+                    "4602732",
+                    "4606228",
+                    "4606261",
+                    "4606329",
+                    "4606388",
+                    "4606293"
+                  ]
+                },
+                {
+                  "ingredient": "Onion Straw Strings Battered",
+                  "supc_data": [
+                    "9447285",
+                    "7203769"
+                  ]
+                },
+                {
+                  "ingredient": "Cheese Boursin Dairy-Free",
+                  "supc_data": [
+                    "7152446"
+                  ]
+                },
+                {
+                  "ingredient": "Pickle Chip Bread And Butter",
+                  "supc_data": [
+                    "0169336",
+                    "4397657",
+                    "7751605"
+                  ]
+                },
+                {
+                  "ingredient": "Pepper Cherry Whole Mild",
+                  "supc_data": [
+                    "0977643",
+                    "0304259",
+                    "2003861",
+                    "590226"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Season the brisket point with salt and pepper. Smoke for 6 hours at 250 degrees.",
+                "After the brisket has smoked let it rest for 20-30 minutes before cutting into cubes.",
+                "Add 1 tsp. of water to 2 oz. of BBQ sauce and whisk to combine. Toss 5 oz. of the burnt ends in sauce.",
+                "Fry 3 oz. of onion straws until crispy, season with salt and pepper. Place the onion straws in the dish first.",
+                "Top the onion straws with burnt ends. Scoop 1.5 oz. of the Dairy Free Boursin and place over the top. Add .25 oz. of chopped cherry peppers and garnish with 2 oz. of the pickles."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Burnt-ends-over-onion-straws-600x600.jpg.png"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27265,
+      "status": "publish",
+      "dateGMT": "2022-05-19T13:32:00Z",
+      "modifiedGMT": "2022-05-19T13:32:02Z",
+      "slug": "pickle-brined-smoked-chickenwith-alabama-white-bbq-sauce",
+      "link": "https://foodie.sysco.com/recipes/pickle-brined-smoked-chickenwith-alabama-white-bbq-sauce/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 269,
+          "value": "Chicken"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        },
+        {
+          "WPID": 302,
+          "value": "BBQ"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 9170,
+          "value": "Chicken Dish"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 426,
+          "value": "Smoked"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/PICKLE_1-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/PICKLE_1-300x300.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/PICKLE_1-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dinner"
+      ],
+      "title": "Pickle Brined Smoked Chickenwith Alabama White BBQ Sauce",
+      "slogan": null,
+      "chefName": "Chef Lindsay Noto",
+      "chefLocation": "Sysco Central Alabama",
+      "prepTimeDuration": "15",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "180",
+      "cookTimeUnit": "min",
+      "servings": "16",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "10 lbs. Sysco Classic Chicken CVP Drumsticks Small",
+                  "supc_data": [
+                    "7114960",
+                    "7917683",
+                    "2334732",
+                    "7086820",
+                    "7842297",
+                    "2762441",
+                    "1094350",
+                    "1094345"
+                  ]
+                },
+                {
+                  "ingredient": "¼ gal. Block & Barrel Classic Pickle Dill Sliced .125″ Krinkle Kut 650 Count",
+                  "supc_data": [
+                    "0137356",
+                    "0137638",
+                    "0137778",
+                    "0137810",
+                    "0137828"
+                  ]
+                },
+                {
+                  "ingredient": "½ gal. Sysco Imperial Mayonnaise Culinary Premium",
+                  "supc_data": [
+                    "4002416",
+                    "4002390",
+                    "4116364"
+                  ]
+                },
+                {
+                  "ingredient": "3 c. Sysco Classic Vinegar Apple Cider 50 Grain",
+                  "supc_data": [
+                    "4069373"
+                  ]
+                },
+                {
+                  "ingredient": "6 oz. Sysco Classic Sugar Brown Light Cane",
+                  "supc_data": [
+                    "1854694",
+                    "3366488",
+                    "3963725"
+                  ]
+                },
+                {
+                  "ingredient": "2 oz. Sysco Classic Salt Kosher Flake Coarse",
+                  "supc_data": [
+                    "6040760",
+                    "3840752",
+                    "3888670",
+                    "4137398",
+                    "5218880",
+                    "6904759"
+                  ]
+                },
+                {
+                  "ingredient": "1 oz. Sysco Imperial/McCormick Spice Garlic Powder",
+                  "supc_data": [
+                    "9806449",
+                    "6639165",
+                    "3492602",
+                    "3492836",
+                    "5239611",
+                    "5228820",
+                    "5239629",
+                    "9806456"
+                  ]
+                },
+                {
+                  "ingredient": "1 oz. Sysco Imperial/McCormick Spice Onion Powder",
+                  "supc_data": [
+                    "5229117",
+                    "5229125"
+                  ]
+                },
+                {
+                  "ingredient": "3 oz. Sysco Imperial/McCormick Spice Pepper Black Coarse Ground",
+                  "supc_data": [
+                    "5229273",
+                    "5229281",
+                    "5229356",
+                    "5229331"
+                  ]
+                },
+                {
+                  "ingredient": "1 oz. Sysco Imperial McCormick Spice Mustard Ground Dry",
+                  "supc_data": [
+                    "5229026"
+                  ]
+                },
+                {
+                  "ingredient": "½ oz. Sysco Imperial/McCormick Spice Paprika Smoked",
+                  "supc_data": [
+                    "5229182",
+                    "5229240",
+                    "5254743",
+                    "5229174"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Brine chicken drums in pickle juice over night.",
+                "Set your smoker or Combi oven to 250 degrees. Use woods chips of choice, although hickory is recommended. Humidity should be set to 65%. Chicken should be on a rack to allow smoke to completely penetrate the chicken. Smoke for 3 hours.",
+                "Mean while, whisk all ingredients for White BBQ sauce until smooth. Refrigerate until ready to use.",
+                "Once the chicken is finished smoking, remove from the oven or smoker and allow to rest. Refrigerate until ready to serve.",
+                "For service, fry chicken drums in a deep fryer until skin is brown and crispy. Serve with Alabama White BBQ sauce."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/PICKLE_1-800x850.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27216,
+      "status": "publish",
+      "dateGMT": "2022-05-17T21:59:43Z",
+      "modifiedGMT": "2022-05-17T21:59:46Z",
+      "slug": "midwest-smoked-brisket-and-sides",
+      "link": "https://foodie.sysco.com/recipes/midwest-smoked-brisket-and-sides/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 267,
+          "value": "Beef"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        },
+        {
+          "WPID": 302,
+          "value": "BBQ"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 358,
+          "value": "Meat Dish"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/Midwest-Smoked-Brisket-Sides-Chef-Amy-Elliott-North-Central-region-1-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/Midwest-Smoked-Brisket-Sides-Chef-Amy-Elliott-North-Central-region-1-271x300.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Midwest-Smoked-Brisket-Sides-Chef-Amy-Elliott-North-Central-region-1.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dinner"
+      ],
+      "title": "Midwest Smoked Brisket and Sides",
+      "slogan": null,
+      "chefName": "Chef Amy Elliott",
+      "chefLocation": "Sysco Minnesota",
+      "prepTimeDuration": null,
+      "prepTimeUnit": null,
+      "cookTimeDuration": null,
+      "cookTimeUnit": null,
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "10 pound Beef Brisket ¼ Trim Prime",
+                  "supc_data": [
+                    "7184354"
+                  ]
+                },
+                {
+                  "ingredient": "4 ounces Salt Kosher Flake Coarse",
+                  "supc_data": [
+                    "6040760"
+                  ]
+                },
+                {
+                  "ingredient": "4 ounces Spice Pepper Black Coarse Ground",
+                  "supc_data": [
+                    "5229273",
+                    "5229281",
+                    "5229356",
+                    "5229331"
+                  ]
+                },
+                {
+                  "ingredient": "4 ounces Oil Olive Blend 50/50 Bag In Box",
+                  "supc_data": [
+                    "4477941",
+                    "4477962",
+                    "5846714",
+                    "7064341",
+                    "7141728",
+                    "7141804"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Pickle Sliced Dill Hamburger Krinkle Kut .25″ Premium",
+                  "supc_data": [
+                    "4547709"
+                  ]
+                },
+                {
+                  "ingredient": "3 1/5 ounces Sausage Polish 5 Per # Natural Casing Smoked",
+                  "supc_data": [
+                    "6343735"
+                  ]
+                },
+                {
+                  "ingredient": "3 ounces Hushpuppies With Onions",
+                  "supc_data": [
+                    "1797257"
+                  ]
+                },
+                {
+                  "ingredient": "½ ounce Honey Pure Clover Grade A In Jug",
+                  "supc_data": [
+                    "4361432",
+                    "8826893",
+                    "3374097",
+                    "3530128",
+                    "5611645",
+                    "4460176",
+                    "4932000"
+                  ]
+                },
+                {
+                  "ingredient": "2 ½ ounces Cabbage Napa Blend Asian Slaw",
+                  "supc_data": [
+                    "8712575"
+                  ]
+                },
+                {
+                  "ingredient": "1 ½ ounces Dressing Coleslaw Cabbage Mate",
+                  "supc_data": [
+                    "4116646"
+                  ]
+                },
+                {
+                  "ingredient": "1 ounce Pickled Onions",
+                  "supc_data": []
+                },
+                {
+                  "ingredient": "¼ Melon Watermelon Seedless",
+                  "supc_data": [
+                    "3855293"
+                  ]
+                },
+                {
+                  "ingredient": "2 tablespoons Blueberries Fresh",
+                  "supc_data": [
+                    "2036481"
+                  ]
+                },
+                {
+                  "ingredient": "½ ounces Cheese Feta Crumbled",
+                  "supc_data": [
+                    "0120899",
+                    "0135632",
+                    "4507974"
+                  ]
+                },
+                {
+                  "ingredient": "½ grams Mint Fresh Herb",
+                  "supc_data": [
+                    "2037109",
+                    "2037117",
+                    "2037125",
+                    "4509436",
+                    "7187552"
+                  ]
+                },
+                {
+                  "ingredient": "¼ Glaze Balsamic Mint Fresh Herb",
+                  "supc_data": [
+                    "0651828"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Preparing your brisket for smoking consists of trimming, and seasoning. Use your preference on trimming with the suggestion to do this about 12\nhours before the brisket goes onto the grill or smoker. Season brisket at\nleast 12 hours before smoking. Kosher salt, black pepper and oil.\nDistribute evenly coating the whole brisket.",
+                "Preheat the smoker to 250 degrees Fahrenheit (F) with both lump\ncharcoal and your wood. Use fruit woods is optional (applewood and maple being\nmy first choice) for brisket to add a sweeter flavor. Insert a remote\nthermometer probe into the flat of the brisket, it is leaner and the more\nimportant part of the brisket to monitor while cooking. 250\ndegrees F is ideal for slowly rendering fat.",
+                "As it cooks, it will encounter a period of time called the stall. The stall can\nhappen anywhere between 160 to 175 degrees F. As the heat from the\nsmoker renders the pockets of fat, the fat liquefies. As the fat liquefies\nand interacts with the meat, there is a cooling effect that happens. To\nspeed up this process you have the option to wrap the meat in butcher\npaper. Wrapping can help to save some time.\nSo don’t be alarmed if there are a couple of hours of incremental\nmovement in the internal temperature of the meat. The recipe has pushed\nthrough the stall when the fat has rendered enough that there is balance\nand the meat heats up again. Usually at 180 degrees things start moving\nagain.",
+                "As the brisket reaches 195 degrees F, it is time to start probing the meat\nwith an instant read thermometer to see if it is done. If the thermometer\nis meeting resistance as inserted it, that means the intramuscular fat\nhasn’t fully rendered out yet. It should feel as if inserting the\nprobe into room temperature butter.\nThe range a brisket can be done will range anywhere from 195 degrees F\nto 215 degrees F. Trust the probe and keep checking every 15 minutes\nuntil you get smooth insertion of the thermometer. At this point, go ahead and place the sausage in\nthe smoker to bring to 165 degrees.",
+                "Cut the brisket in half about where the point ends. This separates some of the flat from the point.\nSlice the flat in to slices. This is all preference, the way people slice it. Some people prefer thicker slices over pencil thin.\nTake the larger cut that is both the point and the flat, and then slice that in half. From there, continue to slice.\nSlice sausage on a hard bias. Serve with brisket.",
+                "Deep fry hushpuppies for 30-45 seconds. Combine the Napa slaw with coleslaw dressing. Peel watermelon and cut into planks. Top with\npickled blueberries, feta crumbles, fresh mint, and balsamic dressing.\nEnjoy"
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Midwest-Smoked-Brisket-Sides-Chef-Amy-Elliott-North-Central-region-1.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27111,
+      "status": "publish",
+      "dateGMT": "2022-05-17T18:03:12Z",
+      "modifiedGMT": "2022-05-17T18:03:16Z",
+      "slug": "cured-pork-loin-brine",
+      "link": "https://foodie.sysco.com/recipes/cured-pork-loin-brine/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 268,
+          "value": "Pork"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 4798,
+          "value": "Pork Dish"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 347,
+          "value": "Brine"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/Cured-Pork-Loin-Brine-Image-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/Cured-Pork-Loin-Brine-Image-300x300.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Cured-Pork-Loin-Brine-Image.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dinner"
+      ],
+      "title": "Cured Pork Loin Brine",
+      "slogan": null,
+      "chefName": null,
+      "chefLocation": null,
+      "prepTimeDuration": null,
+      "prepTimeUnit": null,
+      "cookTimeDuration": null,
+      "cookTimeUnit": null,
+      "servings": "4 Gallons",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "1.5 gal. Tap Water",
+                  "supc_data": []
+                },
+                {
+                  "ingredient": "20 oz. Sysco Classic Extra Fine Granulated Cane Sugar",
+                  "supc_data": [
+                    "4782694"
+                  ]
+                },
+                {
+                  "ingredient": "10 oz. Organic Maple Syrup",
+                  "supc_data": [
+                    "6219331",
+                    "6219349"
+                  ]
+                },
+                {
+                  "ingredient": "4 oz. Juniper Berries",
+                  "supc_data": []
+                },
+                {
+                  "ingredient": "3.5 oz. Prague Pink Curing Salt",
+                  "supc_data": [
+                    "4540373",
+                    "7130688",
+                    "7172848"
+                  ]
+                },
+                {
+                  "ingredient": "½ oz. Sysco Imperial/McCormick Bay Leaves",
+                  "supc_data": [
+                    "5158502"
+                  ]
+                },
+                {
+                  "ingredient": "12 oz. Sysco Classic Pancake & Waffle Maple Syrup",
+                  "supc_data": [
+                    "4950655",
+                    "6219331",
+                    "6219349"
+                  ]
+                },
+                {
+                  "ingredient": "2.5 gal. Ice Water",
+                  "supc_data": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Bring tap water to a rolling boil; measure all the dry ingredients. Add the maple syrup and dry ingredients to the boiling water. Turn off the heat; stir until sugar and salt are dissolved.",
+                "In a 5-gallon bucket, add the ice water, then pour in the brine concentrate, using 1 gallon of brine for every 5 pounds of pork loin; stir and allow to dissolve."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Cured-Pork-Loin-Brine-Image.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27189,
+      "status": "publish",
+      "dateGMT": "2022-05-13T23:39:50Z",
+      "modifiedGMT": "2022-05-13T23:39:51Z",
+      "slug": "chicago-hot-links-plate",
+      "link": "https://foodie.sysco.com/recipes/chicago-hot-links-plate/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 4361,
+          "value": "Sausage"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        },
+        {
+          "WPID": 302,
+          "value": "BBQ"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 4321,
+          "value": "Barbecue"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 426,
+          "value": "Smoked"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/Chicago-Hot-Links-Plate-Chef-Gabriel-Freeman-Chicago-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/Chicago-Hot-Links-Plate-Chef-Gabriel-Freeman-Chicago-300x225.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Chicago-Hot-Links-Plate-Chef-Gabriel-Freeman-Chicago-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dinner"
+      ],
+      "title": "Chicago Hot Links Plate",
+      "slogan": null,
+      "chefName": "Chef Gabriel Freeman",
+      "chefLocation": "Chicago",
+      "prepTimeDuration": null,
+      "prepTimeUnit": null,
+      "cookTimeDuration": null,
+      "cookTimeUnit": null,
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "4 oz. Sysco Imperial Potato Fry 3/8″ Extra-long",
+                  "supc_data": [
+                    "1998899",
+                    "1998907",
+                    "1998917",
+                    "1999872",
+                    "4356465"
+                  ]
+                },
+                {
+                  "ingredient": "1 oz. Backer’s Source Classic Bread Texas Toast Yellow .75 Inch Slice",
+                  "supc_data": [
+                    "3547536",
+                    "4780716"
+                  ]
+                },
+                {
+                  "ingredient": "6 oz. Sausage Italian Rope Hot Natural Casing",
+                  "supc_data": [
+                    "2434249"
+                  ]
+                },
+                {
+                  "ingredient": "2 fl. oz. Sysco Imperial Sauce Bbq Sweet And Tangy",
+                  "supc_data": [
+                    "4602732",
+                    "4606228",
+                    "4606261",
+                    "4606329",
+                    "4606388",
+                    "4606293"
+                  ]
+                },
+                {
+                  "ingredient": "1 oz. Sysco Classic Salad Coleslaw Dixie Chopped 9002908 SYS CLS 1.00 oz",
+                  "supc_data": [
+                    "9002908"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Prepare the smoker and preheat it to 225°. Depending on the smoker, place a pan with water underneath or near the sausage. Lay sausages on the grate and make sure they are not touching. Close the lid and smoke for 3 hours.",
+                "Lightly toast white bread and transfer to plate.",
+                "Deep fry fries until golden brown. Top toast with fries.",
+                "Slice sausage into 2\" chunks and top fries with smoked sausage.",
+                "Top with sauce and serve with coleslaw."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Chicago-Hot-Links-Plate-Chef-Gabriel-Freeman-Chicago-950x850.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27158,
+      "status": "publish",
+      "dateGMT": "2022-05-13T23:35:36Z",
+      "modifiedGMT": "2022-05-13T23:35:40Z",
+      "slug": "gochujang-burger",
+      "link": "https://foodie.sysco.com/recipes/gochujang-burger/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 267,
+          "value": "Beef"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        },
+        {
+          "WPID": 315,
+          "value": "Fusion"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 9157,
+          "value": "Burger"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [
+        {
+          "WPID": 335,
+          "value": "Grill"
+        }
+      ],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/Gochujang-Burger-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/Gochujang-Burger-300x225.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Gochujang-Burger-scaled.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dinner"
+      ],
+      "title": "Gochujang Burger",
+      "slogan": "Chuck, brisket, short rib patty, sweet and sour pickles, gochujang napa slaw",
+      "chefName": "Chef Jeffrey Johnson",
+      "chefLocation": "Minnesota",
+      "prepTimeDuration": "5",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "5",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": "Gochujang Burger",
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "3 oz. Gochujang Slaw",
+                  "supc_data": []
+                },
+                {
+                  "ingredient": "1 oz. Sweet and Sour Pickles",
+                  "supc_data": []
+                },
+                {
+                  "ingredient": "6 oz. Beef Ground Patty Chuck Brisket Short Rib Blend Hereford",
+                  "supc_data": [
+                    "7035967",
+                    "9070384",
+                    "0602946",
+                    "0864585",
+                    "5130313",
+                    "5224607",
+                    "1293719",
+                    "4163697",
+                    "6147599",
+                    "1162676",
+                    "5053592",
+                    "5133733"
+                  ]
+                },
+                {
+                  "ingredient": "1 ea. Sysco Simply Bun Hamburger Wheatberry Sprouted Grain",
+                  "supc_data": [
+                    "7172630"
+                  ]
+                },
+                {
+                  "ingredient": "4 oz. Sysco Imperial Potato Fry Crinkle Cut 7/8 X 9/16 Spicy Batter",
+                  "supc_data": [
+                    "7132388"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sweet and Sour Pickles",
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "2 ea. Imperial Fresh Cucumber European Seedless Fresh",
+                  "supc_data": [
+                    "1735372",
+                    "7134591",
+                    "7134593"
+                  ]
+                },
+                {
+                  "ingredient": "2/3 oz. Sysco Classic Sugar Granulated Extra-fine Cane",
+                  "supc_data": [
+                    "4782694"
+                  ]
+                },
+                {
+                  "ingredient": "1 oz. Imperial Fresh Ginger Root Fresh",
+                  "supc_data": [
+                    "1185545",
+                    "2257921",
+                    "3880168"
+                  ]
+                },
+                {
+                  "ingredient": "⅛ tsp. Sysco Classic Salt Kosher",
+                  "supc_data": [
+                    "6040760"
+                  ]
+                },
+                {
+                  "ingredient": "¼ tsp. Sysco Imperial/McCormick Spice Pepper Red Crushed",
+                  "supc_data": [
+                    "9806423",
+                    "5913454",
+                    "3492701",
+                    "7324452",
+                    "1771151",
+                    "1975145"
+                  ]
+                },
+                {
+                  "ingredient": "1 c. Jade Mountain Vinegar Rice Wine Seasoned 4.3 Percent",
+                  "supc_data": [
+                    "5872353"
+                  ]
+                },
+                {
+                  "ingredient": "1 oz. Imperial Fresh Shallots Whole Peeled Fresh",
+                  "supc_data": [
+                    "1821529",
+                    "2415859",
+                    "9582545"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gochujang Slaw",
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "1 lb. Imperial Fresh Cabbage Napa Blend Asian Slaw",
+                  "supc_data": [
+                    "2308153"
+                  ]
+                },
+                {
+                  "ingredient": "¼ c. Sauce Asian Gochujang",
+                  "supc_data": [
+                    "7077725"
+                  ]
+                },
+                {
+                  "ingredient": "2 ea. Imperial Fresh Lime Fresh",
+                  "supc_data": [
+                    "7412570",
+                    "9578964",
+                    "9041435"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": "Sweet and Sour Pickles",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Slice the cucumbers into very thin coins (a mandoline works well for this job) and thinly slice the shallot as well. Add both to medium size bowl.",
+                "In a smaller bowl, whisk the rice vinegar, sugar, grated ginger, salt and chile flakes together until the sugar has dissolved and pour over the cucumbers, tossing lightly to coat.",
+                "Cover and refrigerate for at least 30 minutes or up to 3 days."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gochujang Slaw",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "In a medium bowl mix juice of both limes and gochujang together. Next add Asian slaw mix to the bowl, toss until vegetables a evenly coated. Chill until needed."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gochujang Burger",
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Season burger patty with salt and pepper. Grill to requested temp.",
+                "Warm bun until soft.",
+                "Build burger in this order: 1. Bun bottom. 2. Pickles. 3. Burger patty. 4.\nSlaw. 5 Bun top.",
+                "Add fries or other side as requested."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Gochujang-Burger-950x850.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27066,
+      "status": "publish",
+      "dateGMT": "2022-05-13T23:24:37Z",
+      "modifiedGMT": "2022-05-13T23:24:42Z",
+      "slug": "korean-style-bbq-brisket-with-power-blend-kimchi",
+      "link": "https://foodie.sysco.com/recipes/korean-style-bbq-brisket-with-power-blend-kimchi/",
+      "categories": [],
+      "tags": [],
+      "recipeTypes": [
+        {
+          "WPID": 239,
+          "value": "Appetizer"
+        },
+        {
+          "WPID": 235,
+          "value": "Dinner"
+        },
+        {
+          "WPID": 237,
+          "value": "Lunch"
+        },
+        {
+          "WPID": 241,
+          "value": "Main Dish"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 267,
+          "value": "Beef"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        },
+        {
+          "WPID": 302,
+          "value": "BBQ"
+        }
+      ],
+      "dishTypes": [
+        {
+          "WPID": 4321,
+          "value": "Barbecue"
+        }
+      ],
+      "dietaryNeeds": [],
+      "techniques": [],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/04/Korean-style-bbq-brisket-with-power-blend-kimchi-Chef-Randy-Shore-Dower-Metro-NY-300x245.jpg",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/04/Korean-style-bbq-brisket-with-power-blend-kimchi-Chef-Randy-Shore-Dower-Metro-NY-225x300.jpg",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/04/Korean-style-bbq-brisket-with-power-blend-kimchi-Chef-Randy-Shore-Dower-Metro-NY.jpg"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Main Dish"
+      ],
+      "title": "Korean Style BBQ Brisket with Power Blend Kimchi",
+      "slogan": null,
+      "chefName": "Chef Randy Shore-Dower",
+      "chefLocation": "Sysco Metro New York",
+      "prepTimeDuration": "20",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "260",
+      "cookTimeUnit": "min",
+      "servings": "8",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": null,
+              "ingredient_list": [
+                {
+                  "ingredient": "Beef Brisket",
+                  "supc_data": [
+                    "0360400",
+                    "1739408",
+                    "5671130",
+                    "0360400",
+                    "8584425",
+                    "1160037"
+                  ]
+                },
+                {
+                  "ingredient": "Soy Sauce",
+                  "supc_data": [
+                    "9153982",
+                    "3252400"
+                  ]
+                },
+                {
+                  "ingredient": "Juice Apple 100% Aseptic",
+                  "supc_data": [
+                    "6050116",
+                    "9857046",
+                    "4164034",
+                    "4687299"
+                  ]
+                },
+                {
+                  "ingredient": "Onion Red Jumbo",
+                  "supc_data": [
+                    "8313967",
+                    "1039494",
+                    "1094663",
+                    "5098905",
+                    "8399925"
+                  ]
+                },
+                {
+                  "ingredient": "Wine Cooking Mirin Sweet",
+                  "supc_data": [
+                    "6976849",
+                    "4181947",
+                    "4345542"
+                  ]
+                },
+                {
+                  "ingredient": "Garlic Peeled Fresh",
+                  "supc_data": [
+                    "1821537",
+                    "7127443",
+                    "8853954"
+                  ]
+                },
+                {
+                  "ingredient": "Sugar Brown Light Cane",
+                  "supc_data": [
+                    "1854926",
+                    "1854694",
+                    "5593702"
+                  ]
+                },
+                {
+                  "ingredient": "Pear Puree",
+                  "supc_data": [
+                    "1695224",
+                    "2728717"
+                  ]
+                },
+                {
+                  "ingredient": "Oil Sesame Seed Toasted Pure",
+                  "supc_data": [
+                    "5967492",
+                    "4086260",
+                    "4546818"
+                  ]
+                },
+                {
+                  "ingredient": "Spice Pepper Red Crushed",
+                  "supc_data": [
+                    "9806423",
+                    "5913454",
+                    "3492701",
+                    "7324452",
+                    "1771151",
+                    "1975145"
+                  ]
+                },
+                {
+                  "ingredient": "Ketchup Squeeze Red Upside Down",
+                  "supc_data": [
+                    "6638738",
+                    "5686266",
+                    "8382129",
+                    "1111111",
+                    "9431024"
+                  ]
+                },
+                {
+                  "ingredient": "Vegetable Mix Slaw Power Blend",
+                  "supc_data": [
+                    "4966146"
+                  ]
+                },
+                {
+                  "ingredient": "Ginger Root Fresh",
+                  "supc_data": [
+                    "1185545",
+                    "2257921",
+                    "3880168"
+                  ]
+                },
+                {
+                  "ingredient": "Fish Sauce",
+                  "supc_data": [
+                    "5807458",
+                    "3281999"
+                  ]
+                },
+                {
+                  "ingredient": "Onion Green Iceless",
+                  "supc_data": [
+                    "7350788",
+                    "8678120",
+                    "6728232"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Mix 4 oz. pear puree,  8 oz. apple juice, 2 lbs. sliced onion, 2 oz. brown sugar, 4 oz. mirin sweet cooking wine, 2 oz. sesame oil and 1 oz. chopped garlic together. Cover 5 lb. brisket with liquid overnight.",
+                "Remove brisket, dry off, sear on all sides then place in deep hotel pan with the liquid and add 2 cups water and cook at 300 degrees for approximately 6 hours until tender.",
+                "Slice brisket against the grain and reduce liquid.",
+                "For kimchi, combine 1 oz. garlic,  2 oz. chopped ginger, .5 oz. white sugar, 2 oz. fish sauce in blender till chopped fine. In a bowl combine garlic mixture, 2 oz. green onion in 1/2 size pieces and 4 oz. chili paste. Add power blend, toss together and refrigerate at least 4 hours before serving.",
+                "Serve hot brisket with glazed sauce and kimchi on the side."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/04/Korean-style-bbq-brisket-with-power-blend-kimchi-Chef-Randy-Shore-Dower-Metro-NY.jpg"
+    }
+  },
+  {
+    "metadata": {
+      "WPID": 27130,
+      "status": "publish",
+      "dateGMT": "2022-05-13T23:12:36Z",
+      "modifiedGMT": "2022-05-13T23:12:39Z",
+      "slug": "rumchata-ricotta-ice-cream-basque-cheesecake",
+      "link": "https://foodie.sysco.com/recipes/rumchata-ricotta-ice-cream-basque-cheesecake/",
+      "categories": [],
+      "tags": [
+        {
+          "WPID": 459,
+          "value": "Cheesecake"
+        },
+        {
+          "WPID": 127,
+          "value": "Dessert"
+        },
+        {
+          "WPID": 231,
+          "value": "Ice Cream"
+        }
+      ],
+      "recipeTypes": [
+        {
+          "WPID": 240,
+          "value": "Dessert"
+        }
+      ],
+      "mainIngredients": [
+        {
+          "WPID": 285,
+          "value": "Dairy"
+        }
+      ],
+      "cuisines": [
+        {
+          "WPID": 288,
+          "value": "American"
+        }
+      ],
+      "dishTypes": [],
+      "dietaryNeeds": [],
+      "techniques": [],
+      "featureMedia": {
+        "thumbnail": "https://foodie.sysco.com/wp-content/uploads/2022/05/Rumchata-Ricotta-Basque-Cheesecake-Cheesecake-600x600-1-300x245.png",
+        "medium": "https://foodie.sysco.com/wp-content/uploads/2022/05/Rumchata-Ricotta-Basque-Cheesecake-Cheesecake-600x600-1-300x300.png",
+        "full": "https://foodie.sysco.com/wp-content/uploads/2022/05/Rumchata-Ricotta-Basque-Cheesecake-Cheesecake-600x600-1.png"
+      }
+    },
+    "data": {
+      "mealTypes": [
+        "Dessert"
+      ],
+      "title": "Rumchata Ricotta Ice Cream Basque Cheesecake",
+      "slogan": null,
+      "chefName": "Chef Chad Kline",
+      "chefLocation": null,
+      "prepTimeDuration": "15",
+      "prepTimeUnit": "min",
+      "cookTimeDuration": "10",
+      "cookTimeUnit": "min",
+      "servings": "1",
+      "description": null,
+      "ingredients": [
+        {
+          "title": null,
+          "ingredient_items": [
+            {
+              "subtitle": "Rumchata Ricotta Ice Cream",
+              "ingredient_list": [
+                {
+                  "ingredient": "Cheese Ricotta Whole Milk (7891320)",
+                  "supc_data": [
+                    "7891320",
+                    "7884305",
+                    "2388833",
+                    "3986072"
+                  ]
+                },
+                {
+                  "ingredient": "Cream Heavy Whipping 36% (4828802)",
+                  "supc_data": [
+                    "4828802",
+                    "6935464",
+                    "3617935",
+                    "3726672"
+                  ]
+                },
+                {
+                  "ingredient": "Mike’s Hot Honey (7022265)",
+                  "supc_data": [
+                    "7022265",
+                    "7179024",
+                    "7022281",
+                    "7056981"
+                  ]
+                },
+                {
+                  "ingredient": "Extract Vanilla Imitation (5239389)",
+                  "supc_data": [
+                    "5239389",
+                    "5239371",
+                    "5950548",
+                    "9788084"
+                  ]
+                },
+                {
+                  "ingredient": "Salt Granulated Iodized (4540373)",
+                  "supc_data": [
+                    "4540373",
+                    "7130688",
+                    "7172848"
+                  ]
+                },
+                {
+                  "ingredient": "Milk Condensed Sweet (9312596)",
+                  "supc_data": [
+                    "9312596",
+                    "1429370"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtitle": "Rumchata Ricotta Basque Cheesecake",
+              "ingredient_list": [
+                {
+                  "ingredient": "Cheesecake Basque Individual (7188544)",
+                  "supc_data": [
+                    "7188544"
+                  ]
+                },
+                {
+                  "ingredient": "Cashew Roasted Salted Pieces (5691191)",
+                  "supc_data": [
+                    "5691191",
+                    "5141932",
+                    "3656230",
+                    "5629308"
+                  ]
+                },
+                {
+                  "ingredient": "Mike’s Hot Honey (7022265)",
+                  "supc_data": [
+                    "7022265",
+                    "7179024",
+                    "7022281",
+                    "7056981"
+                  ]
+                },
+                {
+                  "ingredient": "Sugar Granulated Extra-fine Cane",
+                  "supc_data": [
+                    "4782694"
+                  ]
+                },
+                {
+                  "ingredient": "Sauce Caramel (4647784)",
+                  "supc_data": [
+                    "4647784",
+                    "9901832",
+                    "3302171"
+                  ]
+                },
+                {
+                  "ingredient": "Mint Fresh Herb (2037125)",
+                  "supc_data": [
+                    "2037109",
+                    "2037117",
+                    "2037125",
+                    "4509436",
+                    "7187552"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "title": null,
+          "instruction_items": [
+            {
+              "subtitle": null,
+              "instruction_list": [
+                "Start by Preparing the Ice Cream. Whip 8 oz. if heavy cream in mixer until forms stiff peaks and set aside.",
+                "Mix together 1 lb. ricotta cheese, 14 oz. condensed sweet milk, 1 oz. hot honey, 1 oz. vanilla extract, 4 oz. rumchata and .25 oz. of salt.",
+                "Mix the whip cream and the ricotta cheese mix together slightly with a wire whisk. Place in freezer for 24 hours.",
+                "Thaw Basque Cheesecake.",
+                "Candied Cashews. Heat .5 oz of sugar and add 1 oz. of cashews. Stir continuously until sugar melts and sticks to the cashews. Then stir in .25 oz. of hot honey pull off burner and set aside.",
+                "Heat up Basque cheesecake in oven for 5 minutes. Place on plate & place a scoop of the rumchata ricotta ice cream on top then drizzle 1 oz. of caramel sauce & .25 oz of hot honey then top with candied nuts and garnish with a mint leaf."
+              ]
+            }
+          ]
+        }
+      ],
+      "specialNotes": [
+        "Ingredient availability varies by location*"
+      ],
+      "imageURL": "https://foodie.sysco.com/wp-content/uploads/2022/05/Rumchata-Ricotta-Basque-Cheesecake-Cheesecake-600x600-1.png"
+    }
+  }
+]
