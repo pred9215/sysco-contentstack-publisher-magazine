@@ -1,0 +1,233 @@
+{
+    "category": "Tips",
+    "wpid": "32693",
+    "created_gmt": "2023-04-20T19:37:50:00Z",
+    "modified_gmt": "2023-07-20T17:56:06:00Z",
+    "header_image": {
+        "small_image": "https://foodie.sysco.com/wp-content/uploads/2023/04/MicrosoftTeams-image-52-1.png",
+        "large_image": "https://foodie.sysco.com/wp-content/uploads/2023/04/MicrosoftTeams-image-53-1.png"
+    },
+    "header_text": {
+        "title": "First of their kind in the Marketplace. Exclusive to Sysco Customers.",
+        "sub_title": "We’re bringing something new to the table, and we want you to try it first."
+    },
+    "bill_board": {
+        "video": {
+            "src": "https://www.youtube.com/embed/g-Oz7jfms3A?feature=oembed&enablejsapi=1&origin=https%3A%2F%2Ffoodie.sysco.com",
+            "title": "Sysco Cutting Edge Solutions Spring 2023"
+        },
+        "cards": [
+            {
+                "href": "https://foodie.sysco.com/wp-content/uploads/2023/04/Edge-Magazine-Spring-2023.pdf",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/04/MicrosoftTeams-image-81-1.png",
+                "text": "The Edge Magazine - Spring 2023"
+            },
+            {
+                "href": "https://foodie.sysco.com/foodie_magazines/edition-31/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/04/edition-31-thumbnail.jpg",
+                "text": "Foodie Magazine – Edition 31"
+            }
+        ]
+    },
+    "edge_solutions": {
+        "title": "New, innovative products that help your operations thrive.",
+        "carousel": [
+            {
+                "href": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/sysco-freshpoint-natural-fresh-ready-to-eat-beans/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Fresh-Ready-To-Eat-Pinto-Beans-S-1-300x300.jpg",
+                "headings": "Sysco FreshPoint Natural Fresh Ready-to-Eat Beans",
+                "text": "Fresh, kettle-cooked, natural pinto, black, and garbanzo beans in a convenient, ready-to-eat format with the quality, taste, and texture of dry beans that have been scratch-made. \nGarbanzo – SUPC # 7089051\n\nBlack Beans – SUPC # 7089040\n\nPinto – SUPC # 7088863\n\nPack Size – Case of 6/4 LB"
+            },
+            {
+                "href": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/mezete-hummus/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/MicrosoftTeams-image-184-300x300.png",
+                "headings": "Mezete Hummus",
+                "text": "The world’s first and only hummus produced with UHT sterilization to sustain a long non-refrigerated shelf life without artificial preservatives. Available in both a foodservice pack and grab-n-go snack pack. \nOriginal Hummus Foodservice Pack – SUPC 7231355 \nRoasted Red Pepper Hummus Foodservice Pack – SUPC 7231361 \nPack Size: 4 / 2.2 LB"
+            },
+            {
+                "href": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/bakers-source-imperial-honey-flavor-baked-biscuits/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Honey-Biscuit-plated-3-S-1-300x300.jpg",
+                "headings": "Baker’s Source Imperial Honey Flavor Baked Biscuits",
+                "text": "Fully baked, soft, flaky, biscuits infused with honey morsels for a scratch-made look and taste with warm-and-serve convenience.\n\nSUPC 7224091\n\nPack Size: 144 ct"
+            },
+            {
+                "href": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/casa-solana-classic-chorizo-potato-blend/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/MicrosoftTeams-image-188-300x300.png",
+                "headings": "Casa Solana Classic Chorizo & Potato Blend",
+                "text": "This fully prepared filling helps you create Latin-inspired dishes with all the flavor and comfort of scratch-made with ready-to heat convenience. SUPC 7225872Pack Size: 4 / 5 LB"
+            },
+            {
+                "href": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/sysco-classic-turkey-sausage-scramble/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Breakfast-Burrito-FillingTurkey-Sausage-Egg-Cheese-nachos-S-1-300x300.jpg",
+                "headings": "Sysco Classic Turkey Sausage Scramble",
+                "text": "This fully prepared filling helps you create Latin-inspired dishes with all the flavor and comfort of scratch-made with ready-to heat convenience. SUPC 7225473Pack Size: 80 / 3.7 OZ"
+            },
+            {
+                "href": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/casa-solana-classic-beef-birria/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Beef-Birria-ramen-S-300x300.jpg",
+                "headings": "Casa Solana Classic Beef Birria",
+                "text": "Made with boneless beef chuck tender, seasoned with salt, pepper, and ancho chili pepper, oven-seared, then slow-braised in a  traditional birria sauce, this fully cooked ready to use product adds global flavors to menus while saving valuable time and labor.  SUPC 7217343  Pack Size:  6 / 2.4 LB"
+            },
+            {
+                "href": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/greco-and-sons-beef-pepperoni/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Pepperoni-on-pizza-S-300x300.jpg",
+                "headings": "Greco and Sons Beef Pepperoni",
+                "text": "A fully cooked, easy to use, Certified Halal product that combines the popularity of beef with the smoky flavor customers crave.  SUPC 7229441  Pack Size: 2 / 5 LB"
+            },
+            {
+                "href": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/greco-and-sons-beef-bacon-3/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Greco-and-Sons-Beef-Bacon-300x300.png",
+                "headings": "Greco and Sons Beef Bacon",
+                "text": "A fully cooked, easy to use, Certified Halal product that combines the popularity of beef with the smoky flavor customers crave.  SUPC 7229414  Pack Size: 2 / 5 LB"
+            }
+        ]
+    },
+    "content_body": {
+        "title": "Keystone Scrub Less Enzymatic 2-in-1 Detergent & Presoak",
+        "data": "This 2-in-1 Detergent & Presoak uses a proprietary, concentrated, enzymatic formula that “eats away” at baked-on proteins and starches to make dish cleaning easier.\nSUPC 7217343\nPack Size: 4 / 1 GAL",
+        "link": "<a href=https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/keystone-scrub-less-enzymatic-2-in-1-detergent-presoak/>Learn More</a>",
+        "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Scrub-Less-Detergent-and-Presoak-lifestyle-S-1.jpg"
+    },
+    "products": {
+        "title": "Shop Spring 2023 Products",
+        "sub_title": "These items meet the changing demands of consumers and create profitable opportunities.",
+        "related_products": [
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7089040/web/3.jpg",
+                "data": "Bean Black Fresh RTE"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7089051/web/3.jpg",
+                "data": "Bean Garbanzo Fresh RTE"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7088863/web/3.jpg",
+                "data": "Pinto Beans RTE"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7224091/web/2.jpg",
+                "data": "Biscuit Baked Honey Flavored"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7229414/web/2.jpg",
+                "data": "Beef Bacon Strips Halal"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7229441/web/2.jpg",
+                "data": "Beef Sliced Pepperoni Halal"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7225872/web/2.jpg",
+                "data": "Burrito Potato Chorizo Filling"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7225473/web/2.jpg",
+                "data": "Burrito Egg / Cheese Turkey Sausage Filling"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7230932/web/2.jpg",
+                "data": "Beef Birria Cooked Frozen"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7231355/web/2.jpg",
+                "data": "Hummus Classic Authentic"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7189102/web/1.jpg",
+                "data": "Biscuit Sausage Egg & Cheese Stuffed"
+            },
+            {
+                "image": "https://image.sysco.com/image-server/product/image/7230932/web/2.jpg",
+                "data": "Beef Birria Cooked Frozen"
+            }
+        ]
+    },
+    "related_recipies": {
+        "title": "Fresh Recipe Inspirations",
+        "sub_title": "These chef-created and on-trend recipes provide new menu options while streamlining back-of-house operations.",
+        "resipies": [
+            {
+                "href": "https://foodie.sysco.com/recipes/31-bean-salad/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/31bean-salad-300x245.png",
+                "headings": "3+1 Bean Salad"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/b-b-l-a-t-beef-bacon-lettuce-avocado--tomato/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/BBALT-300x245.png",
+                "headings": "B.B.L.A.T. (Beef Bacon, Lettuce, Avocado, & Tomato)"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/beef-bacon-black-and-blue-wedge-salad/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Bacon-Salad-300x245.png",
+                "headings": "Beef Bacon Black and Blue Wedge Salad"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/beef-bacon-brussels-sprouts/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/04/Beef-bacon-brussels-sprouts-S-300x245.jpg",
+                "headings": "Beef Bacon Brussels Sprouts"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/beef-pepperoni-pizza/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/04/Pizza-300x245-1-300x245.jpg",
+                "headings": "Beef Pepperoni Pizza"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/birria-ramen-with-beef/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/04/Beef-Ramen-300x245.png",
+                "headings": "Birria Ramen with Beef"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/chorizo-con-papas-street-tacos/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Chorizo-Tacos-1-300x245.jpg",
+                "headings": "Chorizo con Papas Street Tacos"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/chorizo-con-papa-tostada/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Chorizo-Tostada-300x245.png",
+                "headings": "Chorizo con Papa Tostada"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/hummus-chicken-masala/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Hummus-Masala-300x245.jpg",
+                "headings": "Hummus Chicken Masala"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/kickd-up-black-bean-burger/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Black-Bean-Burger-1-300x245.png",
+                "headings": "Kick’d Up Black Bean Burger"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/mediterranean-cobb-salad/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Mediterranian-Cobb-Salad-300x245.png",
+                "headings": "Mediterranean Cobb Salad"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/mexican-inspired-shakshuka-with-beef-birria/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Mexican-Inspired-300x245.jpg",
+                "headings": "Mexican Inspired Shakshuka with Beef Birria"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/mezete-hummus-flatbread-with-roasted-garbanzos/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Hummus-Roasted-Garbanzos-300x245.png",
+                "headings": "Mezete Hummus Flatbread with Roasted Garbanzos"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/pulled-pork-honey-biscuit/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/BBQ-Biscuit-300x245.jpg",
+                "headings": "Pulled Pork Honey Biscuit"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/roasted-garbanzo-beans/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Garbanzo-Beans-300x245.jpg",
+                "headings": "Roasted Garbanzo Beans"
+            },
+            {
+                "href": "https://foodie.sysco.com/recipes/turkey-sausage-scramble-breakfast-bowl/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/breakfast-bowl-300x245.jpg",
+                "headings": "Turkey Sausage Scramble Breakfast Bowl"
+            }
+        ]
+    },
+    "link_page": "<a href=https://foodie.sysco.com/cutting-edge-solutions-fall-2022/>Click here</a> to see items from our Fall 2022 launch.",
+    "link": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/"
+}

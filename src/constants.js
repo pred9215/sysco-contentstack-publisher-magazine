@@ -1,7 +1,7 @@
 const CONTENT_TYPE = 'application/json';
 const API_KEY = process.env.API_KEY;
 const AUTHORIZATION = process.env.AUTHORIZATION;
-
+const ACCESS_TOKEN = process.env.ACCESS_TOKEN;
 export const DATA = {
     MEAL_TYPES: 'mealTypes',
 }
@@ -20,6 +20,7 @@ export const HEADERS = {
     'Content-Type': CONTENT_TYPE,
     'api_key': API_KEY,
     'authorization': AUTHORIZATION,
+    'access_token': ACCESS_TOKEN
 };
 
 export const REFERENCE_CONTENT_TYPES = [

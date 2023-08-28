@@ -11,7 +11,8 @@
     "pino-pretty": "^9.1.1"
   },
   "scripts": {
-    "start": "node -r dotenv-safe/config ./src/app.js"
+    "start:recipe": "node -r dotenv-safe/config ./src/app.js",
+    "start:article": "node -r dotenv-safe/config ./src/article/app.js"
   },
   "devDependencies": {
     "prettier": "2.8.3"

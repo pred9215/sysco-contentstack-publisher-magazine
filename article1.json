@@ -1,0 +1,64 @@
+[{
+    "category": "Tips",
+    "wpid": "32795",
+    "page_header": {
+        "href": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/",
+        "back_message": " Back to New Spring 2023 Cutting Edge Solutions ",
+        "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/MicrosoftTeams-image-184-scaled.jpg",
+        "title": "Mezete Hummus",
+        "pacecore": "Shelf-stable with an authentic Middle Eastern taste"
+    },
+    "content": {
+        "title": "Fresh. Innovative. Efficient. ",
+        "message": "Pioneered after two decades of intensive research and development, this product’s unique Ultra-High Temperature sterilization allows for this hummus to be stored on a shelf, not in a refrigerator, saving valuable cooler space. ",
+        "video": {
+            "src": "https://www.youtube.com/embed/gx7DLXBcwDg?feature=oembed&enablejsapi=1&origin=https%3A%2F%2Ffoodie.sysco.com",
+            "title": "Sysco Cutting Edge Solutions: Mezete Hummus"
+        }
+    },
+    "section_header": {
+        "title": "Why We Love This",
+        "subtitle": "Learn more about this great product",
+        "li": [
+            "Shelf stable – no need to refrigerate before opening",
+            "100% natural ingredients",
+            "Made with 30% tahini content, 3x that of leading brands, for a rich, nutty flavor with a velvety smooth and creamy texture",
+            "This unique UHT sterilization process allows for this hummus to be made with no preservatives, for a fresh, authentic Middle Eastern taste",
+            "Available in two flavors, Classic and Roasted Red Pepper, and packed in 2.2-pound pouches or on-the-go packs for grab-and-go convenience"
+        ]
+    },
+    "recipes": {
+        "title": "Recipes",
+        "card": [
+            {
+                "src": "https://foodie.sysco.com/recipes/mediterranean-cobb-salad/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Mediterranean-Cobb-Salad.png",
+                "text": "Mediterranean Cobb Salad"
+            },
+            {
+                "src": "https://foodie.sysco.com/recipes/hummus-chicken-masala/",
+                "image": "https://foodie.sysco.com/wp-content/uploads/2023/03/Hummus-Chicken-Tikka-Masala.jpg",
+                "text": "Hummus Chicken Masala"
+            }
+        ]
+    },
+    "feature_products": [
+        {
+            "image": "https://image.sysco.com/image-server/product/image/7231355/web/2.jpg",
+            "message": "Hummus Classic Authentic"
+        },
+        {
+            "image": "https://image.sysco.com/image-server/product/image/7231361/web/2.jpg",
+            "message": "Hummus Red Pepper"
+        },
+        {
+            "image": "https://image.sysco.com/image-server/product/image/7231364/web/2.jpg",
+            "message": "Original Hummus Snack Pack"
+        },
+        {
+            "image": "https://image.sysco.com/image-server/product/image/7231367/web/2.jpg",
+            "message": "Roasted Red Pepper Hummus Snack Pack"
+        }
+    ],
+    "link": "https://foodie.sysco.com/new-spring-2023-cutting-edge-solutions/mezete-hummus/"
+}]
