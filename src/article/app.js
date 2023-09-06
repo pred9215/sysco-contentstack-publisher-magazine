@@ -208,6 +208,7 @@ export const publishArticleData = async () => {
                 slogan: article?.slogan,
                 category: [retriveCategory(article.category)],
                 sub_category: [retriveCategory(article.sub_category)],
+                article_type:"newArticle",
                 hero_image: getImage(article?.wpid,imageObj,article.link,article.hero_image),
                 article_content: prepareArticleContent(article,imageObj),
                 related_post: prepareRelatedStory(article,imageObj),
@@ -252,6 +253,7 @@ export const publishEdgeSolutionsData = async () => {
                 wpid: article?.wpid.toString(), // only for test stack
                 status: 'published',
                 category: [retriveCategory(article.category)],
+                article_type:"bannerArticle",
                 page_header: preparePageHeader(article,imageObj),
                 content : article.content,
                 section_header: article.section_header,
@@ -334,6 +336,7 @@ export const publishEdgeSolutionsHomePageData = async () => {
             wpid: article?.wpid.toString(), // only for test stack
             status: 'published',
             category: [retriveCategory(article.category)],
+            article_type:"bannerArticleHome",
             header_image: {
                 small_image: getImage(article.wpid, imageObj, article.link, article.header_image.small_image),
                 large_image: getImage(article.wpid, imageObj, article.link, article.header_image.large_image)
