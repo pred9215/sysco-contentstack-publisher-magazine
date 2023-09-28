@@ -16711,6 +16711,18 @@
 					"Chefs and diners have become obsessed with plants – and not just in vegan or vegetarian applications. The idea of eating more plants has even transformed into an exciting new trend that’s been called everything from “plant-centric” and “vegetable forward” to “veggie-driven.” “Many consumers today are flex-itarians,” says Massimo Balacchi, director of Sysco’s Italian segment. “While the number of people going vegan or vegetarian is growing, it’s very small compared to those who choose to eat less meat in favor of plant-based menu options.”"
 				],
 				"ul": [],
+				"ol":[],
+				"images": [],
+				"carousels": [],
+				"quotes": [],
+				"videos": [],
+				"cta":{},
+				"action": {}
+			},
+			{
+				"heading": null,
+				"content": [],
+				"ul": [],
 				"ol": [
 					{
 						"li": [
@@ -16725,13 +16737,13 @@
 							"It’s easy to make it meatless. A single portion of animal protein can be replaced in popular meat-based dishes by hearty grilled vegetables, mushrooms, distinctive grains such as farro or quinoa, or plant-based substitutes like tempeh, tofu or seitan.",
 							"Plant-centric menus have cost and profit advantages. Because plants require fewer resources to grow and harvest, they can be priced lower than other items to encourage trial and recurring volume sales."
 						],
-						"position": 2
+						"position": 1
 					},
 					{
 						"li": [
 							"Seafood & Vegetarian Consumer Trend Report, Technomic"
 						],
-						"position": 2
+						"position": 1
 					}
 				],
 				"images": [],
@@ -21957,7 +21969,7 @@
 		"name": "Want to Increase Your Restaurant’s Profit Margins? We’ve Got a Sweet Idea – Desserts!",
 		"sub_category": "Spring Into Flavor",
 		"slogan": null,
-		"hero_image": "https://foodie.sysco.com/wp-content/uploads/2022/03/Want-to-Increase-Your-Restaurants-Profit-Margins_-Weve-Got-a-Sweet-Idea-_-Desserts-Header-800x850.jpg",
+		"hero_image": "https://foodie.sysco.com/wp-content/uploads/2022/03/Weve-Got-a-Sweet-Idea-_-Desserts-Header-800x850.jpg",
 		"article_content": [
 			{
 				"heading": null,
@@ -21974,7 +21986,7 @@
 				"ol": [],
 				"images": [
 					{
-						"image": "https://foodie.sysco.com/wp-content/uploads/2022/03/Want-to-Increase-Your-Restaurants-Profit-Margins_-Weve-Got-a-Sweet-Idea-_-Desserts-2-1140x540.jpg",
+						"image": "https://foodie.sysco.com/wp-content/uploads/2022/03/Weve-Got-a-Sweet-Idea-_-Desserts-2-1140x540.jpg",
 						"caption": null,
 						"image_alt": null,
 						"image_class": "pacecore-block-image",
@@ -21982,7 +21994,7 @@
 						"position": 2
 					},
 					{
-						"image": "https://foodie.sysco.com/wp-content/uploads/2022/03/Want-to-Increase-Your-Restaurants-Profit-Margins_-Weve-Got-a-Sweet-Idea-_-Desserts-1-1140x540.jpg",
+						"image": "https://foodie.sysco.com/wp-content/uploads/2022/03/Weve-Got-a-Sweet-Idea-_-Desserts-1-1140x540.jpg",
 						"caption": null,
 						"image_alt": null,
 						"image_class": "pacecore-block-image",

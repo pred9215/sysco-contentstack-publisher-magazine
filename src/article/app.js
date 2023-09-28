@@ -31,8 +31,9 @@ export const insertBulkDataIntoContentStack = async (requests) => {
             logger.info(`API SUCCESS`);
         } catch (e) {
             logger.info(`Error in API ${requests[i].data} - ${e}`);
-            logger.info(e.response.data)
-            failedEntries.push(requests[i]);
+            ///logger.info(e.response.data)
+            //failedEntries.push(requests[i]);
+            logger.info(requests[i])
         }
         i++;
         if (i < requests.length) {
@@ -78,8 +79,8 @@ export const getAllEntriesFromContentTypes = async (callback) => {
         let perPage = PAGE_SIZE;
         let totalPages = null;
         let contentType = {
-            name: 'category',
-            uid: 'category_foodie'
+            name: 'related_post',
+            uid: 'related_post'
         };
         try {
             while (totalPages === null || page <= totalPages) {
@@ -93,7 +94,9 @@ export const getAllEntriesFromContentTypes = async (callback) => {
                 });
                 if (response.status === 200) {
                     responseData = [...responseData, ...response.data.entries];
-                    totalPages = response.data['count'] / perPage;
+                    totalPages = 2//response.data['count'] / perPage;
+                    console.log(response.data['count'])
+                    console.log(totalPages)
                     page++;
                 } else {
                     logger.child({ errorObj: e }).error("Fetching entries is failed");
@@ -109,8 +112,9 @@ export const getAllEntriesFromContentTypes = async (callback) => {
                     }
                 ));
             callback();
-            console.log(cache)
+            //console.log(cache[contentType.name])
         } catch (e) {
+            console.log(e)
             logger.child({ errorObj: e }).error("Fetching entries is failed");
         }
     }
@@ -131,12 +135,19 @@ const retriveSlug = (imageUrl)=>{
 }
 
 const getImage = (wpid,imageObj,articleUrl,imageUrl)=>{
+    const names = ["Weve-Got-a-Sweet-Idea-_-Desserts-Header-800x850","Weve-Got-a-Sweet-Idea-_-Desserts-2-1140x540","Weve-Got-a-Sweet-Idea-_-Desserts-1-1140x540"];
     if(imageUrl == undefined || imageUrl == null)
         return null;
     const slug = retriveSlug(articleUrl);
     const retiveImageName = retriveSlug(imageUrl);
     const extension = path.basename(imageUrl).match(/[0-9a-z]+$/i);
-    const imageName = `${wpid}_${slug}_${retiveImageName}.${extension}`;
+    let imageName = `${wpid}_${slug}_${retiveImageName}.${extension}`;
+    if(wpid === "26241"){
+        if(names.includes(retiveImageName)){
+            imageName = `${wpid}_${retiveImageName}.${extension}`;
+        }
+    }
+    
     const image = imageObj.filter(image=>image.name === imageName)[0];
     return [{
         url: image === undefined ? null : image?.url,
@@ -212,14 +223,14 @@ export const publishArticleData = async () => {
                 hero_image: getImage(article?.wpid,imageObj,article.link,article.hero_image),
                 article_content: prepareArticleContent(article,imageObj),
                 related_post: prepareRelatedStory(article,imageObj),
-                created_gmt: article.created_gmt,
-                modified_gmt: article.modified_gmt,
+                created_gmt: dateChange(article.created_gmt),
+                modified_gmt: dateChange(article.modified_gmt),
                 link:article.link
             }
         }
         //fs.writeFileSync('dommy.json', JSON.stringify(payload),"utf-8");
         const request = {
-            url: `${process.env.CREATE_ENTRY_URL}${process.env.ARTICLE_DEMO_UID}/entries?locale=${process.env.LOCALE_CODE}`,
+            url: `${process.env.CREATE_ENTRY_URL}${process.env.ARTICLE_UID}/entries?locale=${process.env.LOCALE_CODE}`,
             method: 'post',
             headers: {
                 ...HEADERS,
@@ -259,8 +270,8 @@ export const publishEdgeSolutionsData = async () => {
                 section_header: article.section_header,
                 recipes: prepareRecipes(article,imageObj),
                 feature_products: prepareFeatureProducts(article.feature_products,imageObj),
-                created_gmt: article.created_gmt,
-                modified_gmt: article.modified_gmt,
+                created_gmt: dateChange(article.created_gmt),
+                modified_gmt: dateChange(article.modified_gmt),
                 link:article.link
             }
         }
@@ -279,7 +290,10 @@ export const publishEdgeSolutionsData = async () => {
     //fs.writeFile('dommy.json', JSON.stringify(data), "utf-8"
     insertBulkDataIntoContentStack(requests);
 }
-
+const dateChange =(data)=>{
+    var i = data.lastIndexOf(":")
+    return data.substr(0,i)+'+00'+data.substr(i);
+}
 const preparePageHeader = (article,imageObj)=>{
     article.page_header['image'] =getImage(article.wpid,imageObj,article.link,article.page_header.image);
     return article.page_header;
@@ -394,6 +408,82 @@ const prepareEdgeRecipes = (article,imageObj)=>{
     return article.related_recipies;
 }
 
-getAllEntriesFromContentTypes(publishArticleData);
+export const updateRelatedPostEntry = async () => {
+    logger.info("Start article data inserting");
+    const requests = [];
+    const articles = JSON.parse(fs.readFileSync('related_post.json', 'utf8'));
+    //const otmmImages = JSON.parse(fs.readFileSync('images_otmm_article.json', 'utf8'));
+    for (const article of articles) {
+        //const imageObj = otmmImages.filter(image => image.wpid === article.wpid);
+        const payload = {
+            entry: {
+                related_posts: article?.related_post.filter((data)=>data.uid.length>0).map((item) => {
+                    let referenceDietaryNeeds = cache["related_post"].find((dietaryItem) => dietaryItem.name === item.title);
+                    console.log(referenceDietaryNeeds)
+                    if (referenceDietaryNeeds !== undefined) {
+                      return {
+                        uid: referenceDietaryNeeds.uid,
+                        _content_type_uid: referenceDietaryNeeds.contentTypeUid
+                      }
+                    }
+                  })
+            }
+        }
+        //console.log(payload)
+        //fs.writeFileSync('dommy.json', JSON.stringify(payload),"utf-8");//bltd7886249a3eeeaf8  bltd7886249a3eeeaf8//real
+        const request = {
+            url: `${process.env.CREATE_ENTRY_URL}${process.env.ARTICLE_DEMO_UID}/entries/${article.uid}`,
+            method: 'put',
+            headers: {
+                ...HEADERS,
+            },
+            data: JSON.stringify(payload)
+        }
+        requests.push(request);
+    }
+    //fs.writeFileSync('dommy.json', JSON.stringify(requests),"utf-8");
+    //fs.writeFile('dommy.json', JSON.stringify(data), "utf-8"
+    insertBulkDataIntoContentStack(requests);
+}
+export const uploadRelatedData = async () => {
+    logger.info("Start article data inserting");
+    const requests = [];
+    const articles = JSON.parse(fs.readFileSync('related_post.json', 'utf8'));
+    let count =0;
+    for (const article of articles) {
+        // if(count ==1)
+        //      break;
+        //  count=1+count;
+        for (const post of article.related_post) {
+            if(post.uid.length>0){
+                const payload = {
+                    entry: {
+                        href: post.href,
+                        title: post.title,
+                        image: post.image,
+                        category:post.category,
+                        article_id: post.uid[0],
+                        article_type:"newArticle",
+                    }
+                }
+                //console.log(payload)
+                const request = {
+                    url: `${process.env.CREATE_ENTRY_URL}${process.env.ARTICLE_RELATED_POST_UID}/entries?locale=${process.env.LOCALE_CODE}`,
+                    method: 'post',
+                    headers: {
+                        ...HEADERS,
+                    },
+                    data: JSON.stringify(payload)
+                }
+                requests.push(request);
+            }
+        }
+    }
+    //console.log(JSON.stringify(requests))
+    insertBulkDataIntoContentStack(requests);
+}
+uploadRelatedData();
+//getAllEntriesFromContentTypes(updateEntry);
+//getAllEntriesFromContentTypes(publishArticleData);
 //getAllEntriesFromContentTypes(publishEdgeSolutionsData);
 //getAllEntriesFromContentTypes(publishEdgeSolutionsHomePageData);

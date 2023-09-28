@@ -9264,13 +9264,28 @@
       "content_type": "BITMAP"
     },
     {
-      "wpid": "26241"
+      "id": "70ce8c645006d05b8a19ffbafb09776ca52066b5",
+      "name": "26241_Weve-Got-a-Sweet-Idea-_-Desserts-1-1140x540.jpg",
+      "wpid": "26241",
+      "mime_type": "image/jpeg",
+      "url": "https://mediacdn-dev.sysco.com/images/rendition?id=70ce8c645006d05b8a19ffbafb09776ca52066b5",
+      "content_type": "BITMAP"
     },
     {
-      "wpid": "26241"
+      "id": "c48cb618ad3cd2bff5383a6625a6c771015a17a9",
+      "name": "26241_Weve-Got-a-Sweet-Idea-_-Desserts-2-1140x540.jpg",
+      "wpid": "26241",
+      "mime_type": "image/jpeg",
+      "url": "https://mediacdn-dev.sysco.com/images/rendition?id=c48cb618ad3cd2bff5383a6625a6c771015a17a9",
+      "content_type": "BITMAP"
     },
     {
-      "wpid": "26241"
+      "id": "375fbb4f61cb9befd3d6845c1307e9998a6de1d4",
+      "name": "26241_Weve-Got-a-Sweet-Idea-_-Desserts-Header-800x850.jpg",
+      "wpid": "26241",
+      "mime_type": "image/jpeg",
+      "url": "https://mediacdn-dev.sysco.com/images/rendition?id=375fbb4f61cb9befd3d6845c1307e9998a6de1d4",
+      "content_type": "BITMAP"
     },
     {
       "id": "55200f46854757589183368042d3be6a68166048",
