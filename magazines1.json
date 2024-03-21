@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Foodie_E27_pages",
+      "edition_number":27,
+      "year":"2020",
+      "description": "Magazine E27",
+      "image": "Jan-2020-Edition-Magazine-27.jpg",
+      "pdf":"20Foodie_E27_pages.pdf"
+    },
+    {
+      "name": "Foodie_E29_Spread_MR",
+      "edition_number":29,
+      "year":"2021",
+      "description": "Magazine E29",
+      "image": "Foodie-Magazine-Edition-29-Cover.png",
+      "pdf":"21Foodie_E29_Spread_MR.pdf"
+    },
+    {
+      "name": "Foodie_E30_Pages_int",
+      "edition_number":30,
+      "year":"2022",
+      "description": "Magazine E30",
+      "image": "Edition-Magazine-30.jpg",
+      "pdf":"22Foodie_E30_Pages_int.pdf"
+    },
+    {
+      "name": "Foodie_E31_Pages_int",
+      "edition_number":31,
+      "year":"2023",
+      "description": "Magazine E31",
+      "image": "Magazine-Edition-31-Thumbnail.png",
+      "pdf":"23Foodie_E31_Pages_int.pdf"
+    }
+]
