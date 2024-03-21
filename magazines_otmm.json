@@ -1,0 +1,18 @@
+[
+  {
+    "id": "e760bdff5cd1596ae0eff9781d009db713daf6fe",
+    "name": "23Foodie_E33_Pages_int-S.jpg",
+    "wpid": "23Foodie_E33_Pages_int-S",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn.sysco.com/images/rendition?id=e760bdff5cd1596ae0eff9781d009db713daf6fe",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "46f82c7d4494b4cc934fcb2a719e955a5fa00f45",
+    "name": "23Foodie_E33_Pages_int.pdf",
+    "wpid": "23Foodie_E33_Pages_int",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn.sysco.com/images/rendition?id=46f82c7d4494b4cc934fcb2a719e955a5fa00f45",
+    "content_type": "ACROBAT"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "c541a6369702db1b800a2018819af84101240881",
+    "name": "2019-Foodie-magazine-26.jpg",
+    "wpid": "2019-Foodie-magazine-26.jpg",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=c541a6369702db1b800a2018819af84101240881",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "8809122f87cd4dea8e942364b84e652604903d87",
+    "name": "20Foodie_E27_pages.pdf",
+    "wpid": "20Foodie",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=8809122f87cd4dea8e942364b84e652604903d87",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "bf546a8bf3511c1ec6273c2cfd0b6776c84b61e3",
+    "name": "21Foodie_E29_Spread_MR.pdf",
+    "wpid": "21Foodie",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=bf546a8bf3511c1ec6273c2cfd0b6776c84b61e3",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "ee0b5ed2c96e5228e645076ce42a1f97da141e89",
+    "name": "22Foodie_E30_Pages_int.pdf",
+    "wpid": "22Foodie",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=ee0b5ed2c96e5228e645076ce42a1f97da141e89",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "147263155d21e30c3156f00020203384b37f2e82",
+    "name": "23Foodie_E31_Pages_int.pdf",
+    "wpid": "23Foodie",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=147263155d21e30c3156f00020203384b37f2e82",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "1790d00094089b6be2b5da1cce4cc8add1f749f6",
+    "name": "Edition-Magazine-30.jpg",
+    "wpid": "Edition-Magazine-30.jpg",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=1790d00094089b6be2b5da1cce4cc8add1f749f6",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "f76d3ef8a0a1db48bd33894a0888e0b17a931658",
+    "name": "Foodie-Magazine-Edition-29-Cover.png",
+    "wpid": "Foodie-Magazine-Edition-29-Cover.png",
+    "mime_type": "image/png",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=f76d3ef8a0a1db48bd33894a0888e0b17a931658",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "85bbc16fe6fa09789ee95af92928b0fc0bd19475",
+    "name": "Jan-2020-Edition-Magazine-27.jpg",
+    "wpid": "Jan-2020-Edition-Magazine-27.jpg",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=85bbc16fe6fa09789ee95af92928b0fc0bd19475",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "6a30ac2bb01e9ce962a72e0886990f8d6b3eb4fd",
+    "name": "July-2019-Edition-Magazien-25.jpg",
+    "wpid": "July-2019-Edition-Magazien-25.jpg",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=6a30ac2bb01e9ce962a72e0886990f8d6b3eb4fd",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "9d625fa86cca47e591e8f7b448313a9737756d63",
+    "name": "Magazine-Edition-31-Thumbnail.png",
+    "wpid": "Magazine-Edition-31-Thumbnail.png",
+    "mime_type": "image/png",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=9d625fa86cca47e591e8f7b448313a9737756d63",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "7f139d5d87b6535be8b19581492c3b3adf34b403",
+    "name": "Northeast-July-2019-Foodie-E25.pdf",
+    "wpid": "Northeast-July-2019-Foodie-E25.pdf",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=7f139d5d87b6535be8b19581492c3b3adf34b403",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "0c31b3df8ee8701e888e67e5c1c9c5a0ba6913a8",
+    "name": "US-October-2019-Foodie-spreads-E26.pdf",
+    "wpid": "US-October-2019-Foodie-spreads-E26.pdf",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=0c31b3df8ee8701e888e67e5c1c9c5a0ba6913a8",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "8e70d8ffacb56b4477778c8f9c39885c8c320fec",
+    "name": "2019Foodie_E23_Pages.pdf",
+    "wpid": "2019Foodie",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=8e70d8ffacb56b4477778c8f9c39885c8c320fec",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "032298ad5f4daec84247e678a5cdf55574a95859",
+    "name": "23Foodie_E32_Pages.pdf",
+    "wpid": "23Foodie",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=032298ad5f4daec84247e678a5cdf55574a95859",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "c16bd00b0b8f6f15274c9b8d5c29337bb59d91de",
+    "name": "30446_Sysco_Foodie_Winter_2017_PROD_lores-2-E12.jpg",
+    "wpid": "30446",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=c16bd00b0b8f6f15274c9b8d5c29337bb59d91de",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "62425a48eeb326b4622c6997c2c403c00cf563b3",
+    "name": "30446_Sysco_Foodie_Winter_2017_PROD_lores_E12.pdf",
+    "wpid": "30446",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=62425a48eeb326b4622c6997c2c403c00cf563b3",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "0ec79efe2a6777cea269e1011856af2abdf5b48f",
+    "name": "30448_Sysco_Foodie_Summer_2017_LR-14.jpg",
+    "wpid": "30448",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=0ec79efe2a6777cea269e1011856af2abdf5b48f",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "75e1d3fb266bfdadb4d28f0099a414afccbfe52d",
+    "name": "30448_Sysco_Foodie_Summer_2017_LR_E14.pdf",
+    "wpid": "30448",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=75e1d3fb266bfdadb4d28f0099a414afccbfe52d",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "d558033344d10f073f9f6e9cffd6cff65a8b41c2",
+    "name": "32942_Sysco_Foodie_Summer18-E19.jpg",
+    "wpid": "32942",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=d558033344d10f073f9f6e9cffd6cff65a8b41c2",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "fa26f1f4f8f1e02f753386866aa824b0e961bea3",
+    "name": "32942_Sysco_Foodie_Summer18_E19.pdf",
+    "wpid": "32942",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=fa26f1f4f8f1e02f753386866aa824b0e961bea3",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "9ef703f17210f8bc5f718901f02a07a7bf3a3552",
+    "name": "ChefRef_Foodie_Fall_2016-dragged_E9.jpg",
+    "wpid": "ChefRef",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=9ef703f17210f8bc5f718901f02a07a7bf3a3552",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "ffcb65c2af5cd913d738f97c43d9e6d847f1e93c",
+    "name": "ChefRef_Foodie_Fall_2016_E9.pdf",
+    "wpid": "ChefRef",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=ffcb65c2af5cd913d738f97c43d9e6d847f1e93c",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "ec8e191ef62d9ca73c495b782eb14d149d7d18d8",
+    "name": "ChefRef_Foodie_Summer_2016-dragged_E9.jpg",
+    "wpid": "ChefRef",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=ec8e191ef62d9ca73c495b782eb14d149d7d18d8",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "81b8c2da52e96498331798c56340f6d648e55296",
+    "name": "ChefRef_Foodie_Summer_2016_E9.pdf",
+    "wpid": "ChefRef",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=81b8c2da52e96498331798c56340f6d648e55296",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "93c70ee26a1dbd3fea2043d615ae100c0743e2ef",
+    "name": "Edition-32.png",
+    "wpid": "Edition-32.png",
+    "mime_type": "image/png",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=93c70ee26a1dbd3fea2043d615ae100c0743e2ef",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "6b414fb7c87a879a3b4a9977caa148c6002d913b",
+    "name": "Edition_Magazine_E22.jpg",
+    "wpid": "Edition",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=6b414fb7c87a879a3b4a9977caa148c6002d913b",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "47f714a77e7fc351a54586f37d7601875540ce89",
+    "name": "Edition_Magazine_E23.jpg",
+    "wpid": "Edition",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=47f714a77e7fc351a54586f37d7601875540ce89",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "7a8c19352a5af2016e1639a4094054b8491d1dff",
+    "name": "Edition_Magazine_E24.jpg",
+    "wpid": "Edition",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=7a8c19352a5af2016e1639a4094054b8491d1dff",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "da01248133ddb0b7a5511bc0f39dcb291cb51cf2",
+    "name": "Foodie_eMagazine_Holiday_2018-E21.jpg",
+    "wpid": "Foodie",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=da01248133ddb0b7a5511bc0f39dcb291cb51cf2",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "0ed11d3156ddc6d8b9682bdbaee36a22ece3acac",
+    "name": "Foodie_eMagazine_Holiday_2018_E21.pdf",
+    "wpid": "Foodie",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=0ed11d3156ddc6d8b9682bdbaee36a22ece3acac",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "7b873560d0b87ade755e041def0b9d78cfec0690",
+    "name": "Sysco_Foodie_Fall_2017-E15.jpg",
+    "wpid": "Sysco",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=7b873560d0b87ade755e041def0b9d78cfec0690",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "7f10821464b62968c4d98bd11a0e383218e0dac3",
+    "name": "Sysco_Foodie_Fall_2017_E15.pdf",
+    "wpid": "Sysco",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=7f10821464b62968c4d98bd11a0e383218e0dac3",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "a26a0b9b74cac5a18d607d722edc588865518c00",
+    "name": "Sysco_Foodie_Holiday_2016_Lores-dragged_E10.png",
+    "wpid": "Sysco",
+    "mime_type": "image/png",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=a26a0b9b74cac5a18d607d722edc588865518c00",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "c59b6b64b1af20ebe8a2529a9f4366292277272d",
+    "name": "Sysco_Foodie_Holiday_2016_Lores_E10.pdf",
+    "wpid": "Sysco",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=c59b6b64b1af20ebe8a2529a9f4366292277272d",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "bc48e8e7a076904e5e6b4867e03948f2f32683cf",
+    "name": "Sysco_Foodie_Holiday_2017-E16.jpg",
+    "wpid": "Sysco",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=bc48e8e7a076904e5e6b4867e03948f2f32683cf",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "7661b8a642e01c3601e1c704e55cb93e40ac5c5d",
+    "name": "Sysco_Foodie_Holiday_2017_E16.pdf",
+    "wpid": "Sysco",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=7661b8a642e01c3601e1c704e55cb93e40ac5c5d",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "0dac63833b87a495c548d6c4f68f71eef5b00c4d",
+    "name": "Sysco_Foodie_Spring-2017-E13.jpg",
+    "wpid": "Sysco",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=0dac63833b87a495c548d6c4f68f71eef5b00c4d",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "2e83209e6e65e258cbd25f7456b04dee47993b4d",
+    "name": "Sysco_Foodie_Spring-2017_E13.pdf",
+    "wpid": "Sysco",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=2e83209e6e65e258cbd25f7456b04dee47993b4d",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "c6c565bb4c9fe5aecc6bb270147ed38f6ca467a6",
+    "name": "Sysco_Foodie_Spring_2018-E18.jpg",
+    "wpid": "Sysco",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=c6c565bb4c9fe5aecc6bb270147ed38f6ca467a6",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "37d20d06d1464cdd4a5cbba11c8bb70cac3b5f39",
+    "name": "Sysco_Foodie_US_Fall_2018-E20.jpg",
+    "wpid": "Sysco",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=37d20d06d1464cdd4a5cbba11c8bb70cac3b5f39",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "a54d9265b0c7cdae547d9d880a2f1fa423aaf792",
+    "name": "Sysco_Foodie_US_Fall_2018_E20.pdf",
+    "wpid": "Sysco",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=a54d9265b0c7cdae547d9d880a2f1fa423aaf792",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "c22290ca3035c8f005e17db166c93d2b6105e90b",
+    "name": "Sysco_Foodie_Winter18-E17.jpg",
+    "wpid": "Sysco",
+    "mime_type": "image/jpeg",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=c22290ca3035c8f005e17db166c93d2b6105e90b",
+    "content_type": "BITMAP"
+  },
+  {
+    "id": "15536d8ffcec8c1e938366576f5642f41f1eb757",
+    "name": "Sysco_Foodie_Winter18_E17.pdf",
+    "wpid": "Sysco",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=15536d8ffcec8c1e938366576f5642f41f1eb757",
+    "content_type": "ACROBAT"
+  },
+  {
+    "id": "69661de8f15787639086f0897dcc53ffb8cee237",
+    "name": "Sysco_Foodie_Winter19_E22_Pages.pdf",
+    "wpid": "Sysco",
+    "mime_type": "application/pdf",
+    "url": "https://mediacdn-dev.sysco.com/images/rendition?id=69661de8f15787639086f0897dcc53ffb8cee237",
+    "content_type": "ACROBAT"
+  }
+]

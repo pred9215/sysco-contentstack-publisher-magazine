@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Celebration of Feasts & Flavors",
+      "edition_number":32,
+      "year":"2023",
+      "description": "Get holiday ready with the latest catering trends of 2023 and labor-saving tips, and explore culturally-inspired menu ideas from our culinary specialists.",
+      "image": "23Foodie_E32_Pages-1-S.jpg",
+      "pdf":"23Foodie_E32_Pages-1.pdf"
+    },
+    {
+      "name": "Catching up on Seafood",
+      "edition_number":31,
+      "year":"2023",
+      "description": "Learn easy ways to maximize your seafood, improve efficiencies, and reduce waste, plus easy ways to add fish and shellfish to your menus.",
+      "image": "23Foodie_E31_Pages_int-S.jpg",
+      "pdf":"23Foodie_E31_Pages_int.pdf"
+    },
+    {
+      "name": "Linguine Alle Vongole",
+      "edition_number":30,
+      "year":"2022",
+      "description": "Fresh creative recipes perfect for summer, catering tips and tricks, and the latest digital solutions to help support your business as patrons return.",
+      "image": "22Foodie_E30_Pages_int_S.png",
+      "pdf":"22Foodie_E30_Pages_int.pdf"
+    },
+    {
+      "name": "Bistecca All Fiorentina",
+      "edition_number":29,
+      "year":"2021",
+      "description": "Discover new center of the plate items, inspired Italian creations, and how to optimize your digital footprint in this latest edition.",
+      "image": "21Foodie_E29_Spread_MR_S.png",
+      "pdf":"21Foodie_E29_Spread_MR.pdf"
+    },
+    {
+      "name": "Restaurants Rise",
+      "edition_number":28,
+      "year":"2020",
+      "description": "In the current Covid-19 environment, Sysco is here with great tips for takeout and delivery, outdoor dining, and social media outreach.",
+      "image": "July-2020-Digital-Foodie-Restaurants-Rise_Revised-S.jpg",
+      "pdf":"July-2020-Digital-Foodie-Restaurants-Rise_Revised.pdf"
+    },
+    {
+      "name": "Hungry for Choice",
+      "edition_number":27,
+      "year":"2020",
+      "description": "As consumers crave more choice, read about current food trends and changing dietary lifestyles, along with new plant based recipes.",
+      "image": "January-Sysco-Foodie-spreads-S.jpg",
+      "pdf":"January-Sysco-Foodie-spreads.pdf"
+    },
+    {
+      "name": "Fired Up About Beef",
+      "edition_number":26,
+      "year":"2019",
+      "description": "Learn how to beef up your menus with value cuts and global flavors, plus sophisticated vegetable sides that will improve profits and delight customers.",
+      "image": "US-October-2019-Foodie-spreads-S.jpg",
+      "pdf":"US-October-2019-Foodie-spreads.pdf"
+    },
+    {
+      "name": "Holiday Restaurant Success Starts Now",
+      "edition_number":25,
+      "year":"2019",
+      "description": "From menu development, tips on takeout, to social media marketing advice, this issue has everything you need to prepare for the busy holiday season.",
+      "image": "Northeast-July-2019-Foodie-spreads-S.jpg",
+      "pdf":"Northeast-July-2019-Foodie-spreads.pdf"
+    },
+    {
+      "name": "Rise and Shine",
+      "edition_number":24,
+      "year":"2019",
+      "description": "See how classic items like breakfast, burgers, and even ice cream can take on new life with innovative twists and ethnic flavors perfect for summer.",
+      "image": "Foodie-Summer-2019-S.jpg",
+      "pdf":"Foodie-Summer-2019.pdf"
+    },
+    {
+      "name": "The Power of Produce",
+      "edition_number":23,
+      "year":"2019",
+      "description": "Celebrate main dish salads, craft ice teas, and fresh produce, plus get tips and tricks to  get a head start on Cinco de Mayo and Mother's Day.",
+      "image": "Foodie_Spring2019-S.jpg",
+      "pdf":"Foodie_Spring2019.pdf"
+    }
+]
